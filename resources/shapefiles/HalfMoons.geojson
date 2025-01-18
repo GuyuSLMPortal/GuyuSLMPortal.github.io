@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "HalfMoons",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Type of SLM Activity": "Half Moon", "Latitude": -21.271752, "Longitude": 28.998529 }, "geometry": { "type": "Point", "coordinates": [ 28.998529, -21.271752 ] } },
+{ "type": "Feature", "properties": { "Type of SLM Activity": "Half Moon", "Latitude": -21.271784, "Longitude": 28.998496 }, "geometry": { "type": "Point", "coordinates": [ 28.998496, -21.271784 ] } },
+{ "type": "Feature", "properties": { "Type of SLM Activity": "Half Moon", "Latitude": -21.271808, "Longitude": 28.998536 }, "geometry": { "type": "Point", "coordinates": [ 28.998536, -21.271808 ] } },
+{ "type": "Feature", "properties": { "Type of SLM Activity": "Half Moon", "Latitude": -21.271825, "Longitude": 28.998645 }, "geometry": { "type": "Point", "coordinates": [ 28.998645, -21.271825 ] } },
+{ "type": "Feature", "properties": { "Type of SLM Activity": "Half Moon", "Latitude": -21.271818, "Longitude": 28.998711 }, "geometry": { "type": "Point", "coordinates": [ 28.998711, -21.271818 ] } },
+{ "type": "Feature", "properties": { "Type of SLM Activity": "Half Moon", "Latitude": -21.271887, "Longitude": 28.998616 }, "geometry": { "type": "Point", "coordinates": [ 28.998616, -21.271887 ] } },
+{ "type": "Feature", "properties": { "Type of SLM Activity": "Half Moon", "Latitude": -21.271907, "Longitude": 28.998585 }, "geometry": { "type": "Point", "coordinates": [ 28.998585, -21.271907 ] } }
+]
+}
