@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>LIMCOM SLM PORTAL</title>
+<!--
+  <script src="https://api-maps.yandex.ru/2.1/?apikey=bd738319-7362-464e-ad3b-e26cc4b53552&lang=ru_RU" type="text/javascript">
+-->
+  <link rel="stylesheet" href="./libs/v6.14.1-dist/ol.css">
+  <link rel="stylesheet" href="./styles.css">
+  <!-- Boxicons CSS -->
+  <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+  <header>
+    <div class="logo_content">
+      <div class="logo">
+        <img src="./resources/icons/limcom-logo.png" alt="Logo">
+        <!-- <div class="longo_name">SABONA TRUST</div> -->
+      </div>
+    </div>
+    <h1>LIMCOM GUYU CHELESA SLM PORTAL</h1>
+  </header>
+  <main>
+    <div id='js-map' class='map'></div>
+  <div id='popup-container' class='popup-container'>
+    <p id='popup-coordinates' class='popup-coordinates'></p>
+  </div>
+
+  
+  <div class="sidebar">
+    
+    <ul>
+      <h2>Base Layers</h2>
+      <li><input type="radio" name="baseLayerRadioButton" value="OSMStand" checked><a href="">OSM Standard</a> <br></li>
+      <!-- <input type="radio" name="baseLayerRadioButton" value="OSMHuman">OSM Humanitarian<br>
+      <input type="radio" name="baseLayerRadioButton" value="BingMapsSAT">Bing Satellite<br> -->
+      <li><input type="radio" name="baseLayerRadioButton" value="BingMapsSATLabels"><a href="">Bing Satellite (Labels)</a><br></li>
+      <!-- <input type="radio" name="baseLayerRadioButton" value="BingMapsRoad">Bing Maps Road<br> -->
+      <!-- <input type="radio" name="baseLayerRadioButton" value="YandexStand">Yandex Standard<br> -->  
+      <!-- <input type="radio" name="baseLayerRadioButton" value="StamenTerrain">Stamen Terrain<br> -->
+      <!-- <input type="radio" name="baseLayerRadioButton" value="StamenWatercolor">Stamen Watercolor<br> -->
+      <!-- <input type="radio" name="baseLayerRadioButton" value="StamenToner">Stamen Toner<br>
+      <input type="radio" name="baseLayerRadioButton" value="LocalWMS">Local WMS (GeoServer)<br>
+      <input type="radio" name='baseLayerRadioButton' value='OSMVectorTile'>OSM Vector Tiles<br> -->
+
+      <h2>Operational Areas</h2>
+      <!-- <input type="checkbox" name='rasterLayerCheckBox' value='Roads'>Дороги<br> -->
+      <li><input type="checkbox" name='rasterLayerCheckBox' value='districts'><a href="">District Boundaries</a><br></li>
+      <li><input type="checkbox" name='rasterLayerCheckBox' value='wards'><a href="">Ward Boundaries</a><br></li>
+      <li><input type="checkbox" name='rasterLayerCheckBox' value='homesteads'><a href="">Homesteads</a><br></li>
+
+      <h2>Project Interventions</h2>
+      <li><input type="checkbox" name='rasterLayerCheckBox' value='csa'><a href="">CSA Practices</a><br></li>
+      <li><input type="checkbox" name='rasterLayerCheckBox' value='stones'><a href="">Stone Bunds</a><br></li>
+      <li><input type="checkbox" name='rasterLayerCheckBox' value='dlc'><a href="">Dead Level Contours</a><br></li>
+      <li><input type="checkbox" name='rasterLayerCheckBox' value='siltTrap'><a href="">Silt Traps</a><br></li>
+      <li><input type="checkbox" name='rasterLayerCheckBox' value='halfMoons'><a href="">Half Moons</a><br></li>
+      <li><input type="checkbox" name='rasterLayerCheckBox' value='vegetative'><a href="">Vegetative Methods</a><br></li>
+      <li><input type="checkbox" name='rasterLayerCheckBox' value='brushwood'><a href="">Brushwood</a><br></li>
+      <!-- <input type="checkbox" name='rasterLayerCheckBox' value='TileDebugLayer'>Тайловая сеть<br>
+      <input type="checkbox" name='rasterLayerCheckBox' value='Graticule'>Координатная сеть<br> -->
+            
+      
+      
+    
+    </ul>
+    
+    
+    
+
+
+    
+
+  
+  </div>
+  </main>
+
+  <div class='overlay-container-ew'>
+    <span class='overlay-text1' id='ECW-type-info'></span><br>
+    <span class='overlay-text' id='ECW-district-info'></span><br>
+    <span class='overlay-text' id='ECW-wardNumber'></span><br>
+    <span class='overlay-text' id='ECW-project-info'></span><br>
+    <span class='overlay-text' id='local-Mean-Value'></span><br>
+  </div>
+  
+  <div class = 'overlay-container-catchment'>
+    <span class='overlay-text1' id='Dam-name-info'></span><br>
+    <span class='overlay-text2' id='Dam-Dsitrict-info'></span><br>
+    <span class='overlay-text' id='Dam-Ward-info'></span><br>
+    <span class='overlay-text' id='Dam-catchment-info'></span><br>
+    <span class='overlay-text' id='Dam-Year-info'></span><br>
+    <div class='image-container'>
+      <img id="dam-image" src="" alt="Dam Image">
+    </div>
+  </div>
+  <div class = 'overlay-container-gardens'>
+    <span class='overlay-text1' id='garden-name-info'></span><br>
+    <span class='overlay-text2' id='garden-district-info'></span><br>
+    <span class='overlay-text' id='garden-type-info'></span><br>
+    
+    <span class='overlay-text' id='garden-ward-info'></span><br>
+    <div class='image-container'>
+      <img id="garden-image" src="" alt="Garden Image">
+    </div>
+  </div>
+  <div class = 'overlay-container-clubs'>
+    <span class='overlay-text1' id='clubs-name-info'></span><br>
+    <span class='overlay-text' id='clubs-size-info'></span><br>
+    <span class='overlay-text2' id='clubs-location-info'></span><br>
+    <!-- <span class='overlay-text' id='clubs-ward-info'></span><br> -->
+    <span class='overlay-text' id='clubs-description-info'></span><br>
+    <div class='image-container'>
+      <img id="clubs-image" src="" alt="clubs-Image">
+    </div>
+  </div>
+
+  <div class = 'overlay-container-clinics'>
+    <span class='overlay-text1' id='clinics-name-info'></span><br>
+    <span class='overlay-text2' id='clinics-location-info'></span><br>
+    <span class='overlay-text' id='clinics-description-info'></span><br>
+    <div class='image-container'>
+      <img id="clinics-image" src="" alt="clinics-image">
+    </div>
+  </div>
+  <div class = 'overlay-container-borehole'>
+    <span class='overlay-text1' id='borehole-name-info'></span><br>
+    <!-- <span class='overlay-text' id='borehole-size-info'></span><br> -->
+    <span class='overlay-text2' id='borehole-location-info'></span><br>
+    <!-- <span class='overlay-text' id='borehole-ward-info'></span><br> -->
+    <span class='overlay-text' id='borehole-description-info'></span><br>
+    <div class='image-container'>
+      <img id="borehole-image" src="" alt="borehole Image">
+    </div>
+  </div>
+  <div class = 'overlay-container-poultry'>
+    <span class='overlay-text1' id='poultry-name-info'></span><br>
+    <!-- <span class='overlay-text' id='borehole-size-info'></span><br> -->
+    <span class='overlay-text2' id='poultry-location-info'></span><br>
+    <!-- <span class='overlay-text' id='borehole-ward-info'></span><br> -->
+    <span class='overlay-text' id='poultry-description-info'></span><br>
+    <div class='image-container'>
+      <img id="poultry-image" src="" alt="poultry Image">
+    </div>
+  </div>
+  <div class = 'overlay-container-schools'>
+    <span class='overlay-text1' id='schools-name-info'></span><br>
+    <!-- <span class='overlay-text' id='borehole-size-info'></span><br> -->
+    <span class='overlay-text2' id='schools-location-info'></span><br>
+    <!-- <span class='overlay-text' id='borehole-ward-info'></span><br> -->
+    <span class='overlay-text' id='schools-description-info'></span><br>
+    <div class='image-container'>
+      <img id="schools-image" src="" alt="schools Image">
+    </div>
+  </div>
+  </div>
+  </div>
+  <div class = 'overlay-container-subcatchment'>
+    <span class='overlay-text1' id='ward-project'></span><br>
+    <span class='overlay-text' id='subcatchment-name-info'></span><br>
+    <span class='overlay-text' id='subcatchment-area'></span><br>
+    
+  </div>
+
+
+  
+
+
+  <script src='./libs/v6.14.1-dist/ol.js'></script>
+  <!--
+  <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.12.0/build/ol.js"></script>
+  -->
+  <script src="https://cdn.maptiler.com/ol-mapbox-style/v5.0.2/olms.js"></script>
+  <script src='./libs/proj4js/proj4.js'></script>
+  <script src='./libs/proj4js/proj4-src.js'></script>
+  <script src='./main.js'></script>
+
+  
+
+</div>
+
+ 
+  
+</body>
+</html>
