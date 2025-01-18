@@ -773,16 +773,16 @@ function createLabelStyle(feature, resolution) {
   })
 
 
-  const clubsGeoJSON = new ol.layer.VectorImage({
+  const ddlGeoJSON = new ol.layer.VectorImage({
     source: new ol.source.Vector({
-      url: './resources/shapefiles/clubs.geojson',
+      url: './resources/shapefiles/Dead level Contours.geojson',
       format: new ol.format.GeoJSON()
     }),
     style: new ol.style.Style({
       image:clubsmarkerstyle
     }),
     visible: false,
-    title: 'clubs'
+    title: 'dlc'
   });
 
   const boreholeGeoJSON = new ol.layer.VectorImage({
@@ -875,7 +875,7 @@ const schoolsGeoJSON = new ol.layer.VectorImage({
   const layerGroup = new ol.layer.Group({
     layers: [
        ZimbabweGeoJSON,wardsGeoJSON,semiAridGeoJSON,bundsGeoJSON,waterpointsGeoJSON, 
-       poultryGeoJSON,clubsGeoJSON, boreholeGeoJSON,schoolsGeoJSON,silttrapsGeojson, 
+       poultryGeoJSON,ddlGeoJSON, boreholeGeoJSON,schoolsGeoJSON,silttrapsGeojson, 
     ]
   })
   map.addLayer(layerGroup);
