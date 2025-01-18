@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Guyu Chelesa Pilot Site</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        /* Additional style for the map */
+        #map {
+            height: 400px; /* Set height for the map */
+            margin-top: 20px;
+            border: 2px solid #007bff;
+        }
+
+        /* Bullet style for paragraphs */
+        .bullet-paragraph {
+            list-style-type: disc;
+            margin-left: 20px;
+            padding-left: 10px;
+        }
+
+        /* Ensuring list items have bullets */
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>GUYU CHELESA SLM PILOT SITE PROJECT</h1>
+        <p>ABOUT THE PROJECT</p>
+    </header>
+
+    <main>
+        <section class="introduction">
+            <h2>Introduction</h2>
+            <ul>
+                <li class="bullet-paragraph">Our focus is the Guyu-Chelesa Pilot Site located in Gwanda District, Zimbabwe, which encompasses six villages and has a total population of 10,266 people. The site covers an area of 180,011 hectares.</li>
+                <li class="bullet-paragraph">Objective: To carry out Community-based Sustainable Land Management demonstrations, reduce sedimentation, and improve land productivity.</li>
+            </ul>
+            <h3>Location Map</h3>
+            <div id="map"></div>
+        </section>
+
+        <section class="pilot-site">
+            <h2>Target Area</h2>
+            <ul>
+                <li class="bullet-paragraph">Location: Guyu Ward (Ward 14), Gwanda District, Matabeleland South Province, Zimbabwe.</li>
+                <li class="bullet-paragraph">Characteristics: Small-scale farmers, subsistence crops, manual land management practices.</li>
+            </ul>
+            <h3>Target Villages</h3>
+            <ul>
+                <li>Sengezane</li>
+                <li>Paye</li>
+                <li>Nhlamba</li>
+                <li>Sezhubane</li>
+                <li>Bethel</li>
+                <li>Ntanye</li>
+            </ul>
+        </section>
+
+        <section class="activities">
+            <h2>Activities Implemented</h2>
+            <h3>Sustainable Land Management Activities</h3>
+            <ul>
+                <li>Stone bunds</li>
+                <li>Silt traps</li>
+                <li>Dead levels contours</li>
+                <li>Brush woods</li>
+                <li>Half moons</li>
+            </ul>
+            <div class="activity-images">
+                <img src="./images/img1.jpg" alt="Activity 1">
+                <img src="./images/img2.jpg" alt="Activity 2">
+                <img src="./images/img3.jpg" alt="Activity 3">
+                <img src="./images/img4.jpg" alt="Activity 4">
+                <img src="./images/img5.jpg" alt="Activity 5">
+                <img src="./images/img6.jpg" alt="Activity 6">
+            </div>
+        </section>
+
+        <section class="stakeholders">
+            <h3>Achievements</h3>
+            <ul>
+                <li class="bullet-paragraph">Increased community knowledge and awareness of SLM activities.</li>
+                <li class="bullet-paragraph">Community engagement fostering a sense of ownership and stewardship for land.</li>
+                <li class="bullet-paragraph">Gender awareness in the community.</li>
+                <li class="bullet-paragraph">Improved soil health by reducing water runoff.</li>
+                <li class="bullet-paragraph">Reduction in soil erosion and soil retention.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Thank you for your attention!</p>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        // Initialize the map
+        const map = L.map('map').setView([-21.342676, 28.971986], 13); // Center on Guyu
+
+        // Add OpenStreetMap tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+        }).addTo(map);
+
+        // Add a marker for Guyu
+        L.marker([-21.342676, 28.971986]).addTo(map)
+            .bindPopup('Guyu-Chelesa Pilot Site')
+            .openPopup();
+    </script>
+</body>
+</html>
