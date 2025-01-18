@@ -401,14 +401,14 @@ const stamenToner = new ol.layer.Tile({
     size: [200, 200],
     offset: [0.5, 0.5],
     opacity: 1,
-    scale: 0.3,
+    scale: 0.4,
     anchorXUnits: 'fraction',
     anchorYUnits: 'fraction',
     // color:'red'
     
   })
-  const gardenMarkerStyle = new ol.style.Icon({
-    src: './resources/icons/icon-green.png',
+  const stoneMarkerStyle = new ol.style.Icon({
+    src: './resources/icons/icon-yellow.png',
     size: [200, 200],
     offset: [0, 0],
     opacity: 1,
@@ -437,13 +437,13 @@ const stamenToner = new ol.layer.Tile({
     
   });
 
-  const borholeMarkerStyle = new ol.style.Icon({
-    src: './resources/icons/borehole.png',
+  const moonMarkerStyle = new ol.style.Icon({
+    src: './resources/icons/moon.png',
     size: [200, 200],
     offset: [0, 0],
     opacity: 1,
-    scale: 0.15,
-    color:'white'
+    scale: 0.8,
+    color:'red'
     
   })
 
@@ -459,20 +459,20 @@ const stamenToner = new ol.layer.Tile({
 
   const schoolMarkerStyle = new ol.style.Icon({
     src: './resources/icons/school.png',
-    size: [200, 200],
+    size: [100, 100],
     offset: [0, 0],
     opacity: 1,
-    scale: 0.3,
+    scale: 0.0,
     color:'white'
     
   })
-  const clinicMarkerStyle = new ol.style.Icon({
-    src: './resources/icons/clinic.png',
-    size: [200, 200],
+  const siltMarkerStyle = new ol.style.Icon({
+    src: './resources/icons/icon-yellow.png',
+    size: [300, 300],
     offset: [0, 0],
     opacity: 1,
-    scale: 0.3,
-    color:'white'
+    scale: 0.4,
+    color:'red'
     
   })
   // SUBCATCHMENT STYLE
@@ -742,14 +742,14 @@ function createLabelStyle(feature, resolution) {
     visible: false,
     title: 'siltTrap',
     style: new ol.style.Style({
-      image:clinicMarkerStyle
+      image:siltMarkerStyle
     }),
     // Add the label style function
     renderMode: 'image',
     style: function (feature, resolution) {
       return [
         new ol.style.Style({
-          image:clinicMarkerStyle
+          image:siltMarkerStyle
         }),
         createLabelStyle(feature, resolution)
       ];
@@ -766,7 +766,7 @@ function createLabelStyle(feature, resolution) {
       format: new ol.format.GeoJSON()
     }),
     style: new ol.style.Style({
-      image:gardenMarkerStyle
+      image:stoneMarkerStyle
     }),
     visible: false,
     title: 'stones'
@@ -775,7 +775,7 @@ function createLabelStyle(feature, resolution) {
 
   const ddlGeoJSON = new ol.layer.VectorImage({
     source: new ol.source.Vector({
-      url: './resources/shapefiles/Dead level Contours.geojson',
+      url: './resources/shapefiles/Dead_level_Contours.geojson',
       format: new ol.format.GeoJSON()
     }),
     style: new ol.style.Style({
@@ -785,16 +785,16 @@ function createLabelStyle(feature, resolution) {
     title: 'dlc'
   });
 
-  const boreholeGeoJSON = new ol.layer.VectorImage({
+  const halfmoonGeoJSON = new ol.layer.VectorImage({
     source: new ol.source.Vector({
-      url: './resources/shapefiles/boreholes.geojson',
+      url: './resources/shapefiles/HalfMoons.geojson',
       format: new ol.format.GeoJSON()
     }),
     style: new ol.style.Style({
-      image:borholeMarkerStyle
+      image:moonMarkerStyle
     }),
     visible: false,
-    title: 'boreholes'
+    title: 'halfMoons'
   })
 
 
@@ -875,7 +875,7 @@ const schoolsGeoJSON = new ol.layer.VectorImage({
   const layerGroup = new ol.layer.Group({
     layers: [
        ZimbabweGeoJSON,wardsGeoJSON,semiAridGeoJSON,bundsGeoJSON,waterpointsGeoJSON, 
-       poultryGeoJSON,ddlGeoJSON, boreholeGeoJSON,schoolsGeoJSON,silttrapsGeojson, 
+       poultryGeoJSON,ddlGeoJSON, halfmoonGeoJSON,schoolsGeoJSON,silttrapsGeojson, 
     ]
   })
   map.addLayer(layerGroup);

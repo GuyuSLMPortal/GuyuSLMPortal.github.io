@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:odk="http://www.opendatakit.org/xforms" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>Sediment Build up Assessment Tool</h:title>
+    <model odk:xforms-version="1.0.0">
+      <itext>
+        <translation default="true()" lang="default">
+          <text id="/aAFoVxGa9HVCoJ7ucA2z2k/Village_name:hint">
+            <value form="guidance">Nhlamba_Paye_Bethel_Sezhubane_Sengezane_Ntanye</value>
+          </text>
+        </translation>
+      </itext>
+      <instance>
+        <aAFoVxGa9HVCoJ7ucA2z2k id="aAFoVxGa9HVCoJ7ucA2z2k">
+          <start/>
+          <end/>
+          <today/>
+          <username/>
+          <phonenumber/>
+          <Date/>
+          <ward_name_number>14</ward_name_number>
+          <Name_of_Assessor/>
+          <Village_name/>
+          <Site_name/>
+          <GPS_Coordinates_at_Head/>
+          <GPS_Coordinate_at_Tail/>
+          <Type_of_environmental_conservation_work/>
+          <Other_conservation_w_rk_specify_name_here/>
+          <Length_of_conservation_work_m/>
+          <Width_of_conservation_work_m/>
+          <Initial_height_of_conservation_work_m/>
+          <Current_above_groun_conservation_work_m/>
+          <Length_of_sediment_wedge_m/>
+          <Width_of_sediment_wedge_m_At_Head/>
+          <Width_of_sediment_wedge_m_At_Tail/>
+          <Width_of_sediment_we_ge_m_At_Midpoint/>
+          <Picture_1/>
+          <Picture_2/>
+          <group_ni5gp70_header>
+            <group_ni5gp70_header_note/>
+            <group_ni5gp70_header_lhs/>
+            <group_ni5gp70_header_centre/>
+            <group_ni5gp70_header_rhs/>
+          </group_ni5gp70_header>
+          <group_ni5gp70_ecw_1>
+            <group_ni5gp70_ecw_1_note/>
+            <group_ni5gp70_ecw_1_lhs/>
+            <group_ni5gp70_ecw_1_centre/>
+            <group_ni5gp70_ecw_1_rhs/>
+          </group_ni5gp70_ecw_1>
+          <group_ni5gp70_mid_1_ecw_1>
+            <group_ni5gp70_mid_1_ecw_1_note/>
+            <group_ni5gp70_mid_1_ecw_1_lhs/>
+            <group_ni5gp70_mid_1_ecw_1_centre/>
+            <group_ni5gp70_mid_1_ecw_1_rhs/>
+          </group_ni5gp70_mid_1_ecw_1>
+          <group_ni5gp70_ecw_2_end_1_1>
+            <group_ni5gp70_ecw_2_end_1_1_note/>
+            <group_ni5gp70_ecw_2_end_1_1_lhs/>
+            <group_ni5gp70_ecw_2_end_1_1_centre/>
+            <group_ni5gp70_ecw_2_end_1_1_rhs/>
+          </group_ni5gp70_ecw_2_end_1_1>
+          <meta>
+            <instanceID/>
+          </meta>
+        </aAFoVxGa9HVCoJ7ucA2z2k>
+      </instance>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/end" type="dateTime"/>
+      <bind jr:preload="date" jr:preloadParams="today" nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/today" type="date"/>
+      <bind jr:preload="property" jr:preloadParams="username" nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/username" type="string"/>
+      <bind jr:preload="property" jr:preloadParams="phonenumber" nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/phonenumber" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Date" required="false()" type="date"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/ward_name_number" required="true()" type="int"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Name_of_Assessor" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Village_name" required="true()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Site_name" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/GPS_Coordinates_at_Head" required="false()" type="geopoint"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/GPS_Coordinate_at_Tail" required="false()" type="geopoint"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Type_of_environmental_conservation_work" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Other_conservation_w_rk_specify_name_here" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Length_of_conservation_work_m" required="false()" type="decimal"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Width_of_conservation_work_m" required="false()" type="decimal"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Initial_height_of_conservation_work_m" required="false()" type="decimal"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Current_above_groun_conservation_work_m" required="false()" type="decimal"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Length_of_sediment_wedge_m" required="false()" type="decimal"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Width_of_sediment_wedge_m_At_Head" required="false()" type="decimal"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Width_of_sediment_wedge_m_At_Tail" required="false()" type="decimal"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Width_of_sediment_we_ge_m_At_Midpoint" required="false()" type="decimal"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Picture_1" required="false()" type="binary"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/Picture_2" required="false()" type="binary"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_header/group_ni5gp70_header_note" readonly="true()" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_header/group_ni5gp70_header_lhs" readonly="true()" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_header/group_ni5gp70_header_centre" readonly="true()" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_header/group_ni5gp70_header_rhs" readonly="true()" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_1/group_ni5gp70_ecw_1_note" readonly="true()" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_1/group_ni5gp70_ecw_1_lhs" required="true()" type="int"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_1/group_ni5gp70_ecw_1_centre" required="true()" type="int"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_1/group_ni5gp70_ecw_1_rhs" required="true()" type="int"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_mid_1_ecw_1/group_ni5gp70_mid_1_ecw_1_note" readonly="true()" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_mid_1_ecw_1/group_ni5gp70_mid_1_ecw_1_lhs" required="true()" type="int"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_mid_1_ecw_1/group_ni5gp70_mid_1_ecw_1_centre" required="true()" type="int"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_mid_1_ecw_1/group_ni5gp70_mid_1_ecw_1_rhs" required="true()" type="int"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_2_end_1_1/group_ni5gp70_ecw_2_end_1_1_note" readonly="true()" required="false()" type="string"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_2_end_1_1/group_ni5gp70_ecw_2_end_1_1_lhs" required="true()" type="int"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_2_end_1_1/group_ni5gp70_ecw_2_end_1_1_centre" required="true()" type="int"/>
+      <bind nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_2_end_1_1/group_ni5gp70_ecw_2_end_1_1_rhs" required="true()" type="int"/>
+      <bind jr:preload="uid" nodeset="/aAFoVxGa9HVCoJ7ucA2z2k/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body class="theme-grid pages">
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Date">
+      <label>Date</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/ward_name_number">
+      <label>ward name/number</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Name_of_Assessor">
+      <label>Name of Assessor</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Village_name">
+      <label>Village name</label>
+      <hint ref="jr:itext('/aAFoVxGa9HVCoJ7ucA2z2k/Village_name:hint')"/>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Site_name">
+      <label>Site name</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/GPS_Coordinates_at_Head">
+      <label>GPS Coordinates at Head</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/GPS_Coordinate_at_Tail">
+      <label>GPS Coordinate at Tail</label>
+    </input>
+    <select1 ref="/aAFoVxGa9HVCoJ7ucA2z2k/Type_of_environmental_conservation_work">
+      <label>Type of environmental conservation work</label>
+      <item>
+        <label>Stone Gabion</label>
+        <value>stone_gabion</value>
+      </item>
+      <item>
+        <label>Stone Silt trap</label>
+        <value>stone_silt_trap</value>
+      </item>
+      <item>
+        <label>Stone Bund</label>
+        <value>stone_bund</value>
+      </item>
+      <item>
+        <label>Infiltration trench</label>
+        <value>infiltration_trench</value>
+      </item>
+      <item>
+        <label>Vegetative Solution</label>
+        <value>vegetative_solution</value>
+      </item>
+      <item>
+        <label>Dead level Contour</label>
+        <value>dead_level_contour</value>
+      </item>
+      <item>
+        <label>Other (specify)</label>
+        <value>other__specify</value>
+      </item>
+    </select1>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Other_conservation_w_rk_specify_name_here">
+      <label>Other conservation work(specify name here)</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Length_of_conservation_work_m">
+      <label>Length of conservation work (m)</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Width_of_conservation_work_m">
+      <label>Width of conservation work (m)</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Initial_height_of_conservation_work_m">
+      <label>Initial height of conservation work (m</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Current_above_groun_conservation_work_m">
+      <label>Current (above ground Level) height of conservation work (m)</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Length_of_sediment_wedge_m">
+      <label>Length of sediment wedge (m)</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Width_of_sediment_wedge_m_At_Head">
+      <label>Width of sediment wedge (m) - At Head</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Width_of_sediment_wedge_m_At_Tail">
+      <label>Width of sediment wedge (m) - At Tail</label>
+    </input>
+    <input ref="/aAFoVxGa9HVCoJ7ucA2z2k/Width_of_sediment_we_ge_m_At_Midpoint">
+      <label>Width of sediment wedge (m) - At Midpoint</label>
+    </input>
+    <upload mediatype="image/*" ref="/aAFoVxGa9HVCoJ7ucA2z2k/Picture_1">
+      <label>Picture 1</label>
+    </upload>
+    <upload mediatype="image/*" ref="/aAFoVxGa9HVCoJ7ucA2z2k/Picture_2">
+      <label>Picture 2</label>
+    </upload>
+    <group appearance="w4" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_header">
+      <input appearance="w1" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_header/group_ni5gp70_header_note">
+        <label>**Height of sediment wedge from top (m)**</label>
+      </input>
+      <input appearance="w1" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_header/group_ni5gp70_header_lhs">
+        <label>**Left end**</label>
+      </input>
+      <input appearance="w1" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_header/group_ni5gp70_header_centre">
+        <label>**Centre**</label>
+      </input>
+      <input appearance="w1" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_header/group_ni5gp70_header_rhs">
+        <label>**Right End**</label>
+      </input>
+    </group>
+    <group appearance="w4" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_1">
+      <input appearance="w1" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_1/group_ni5gp70_ecw_1_note">
+        <label>##### At Gabion(ECW)</label>
+      </input>
+      <input appearance="w1 no-label" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_1/group_ni5gp70_ecw_1_lhs">
+        <label>&lt;span style="display:none"&gt;ecw_1-Left end&lt;/span&gt;</label>
+      </input>
+      <input appearance="w1 no-label" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_1/group_ni5gp70_ecw_1_centre">
+        <label>&lt;span style="display:none"&gt;ecw_1-Centre&lt;/span&gt;</label>
+      </input>
+      <input appearance="w1 no-label" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_1/group_ni5gp70_ecw_1_rhs">
+        <label>&lt;span style="display:none"&gt;ecw_1-Right End&lt;/span&gt;</label>
+      </input>
+    </group>
+    <group appearance="w4" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_mid_1_ecw_1">
+      <input appearance="w1" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_mid_1_ecw_1/group_ni5gp70_mid_1_ecw_1_note">
+        <label>##### At mid-point</label>
+      </input>
+      <input appearance="w1 no-label" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_mid_1_ecw_1/group_ni5gp70_mid_1_ecw_1_lhs">
+        <label>&lt;span style="display:none"&gt;mid_1_ecw_1-Left end&lt;/span&gt;</label>
+      </input>
+      <input appearance="w1 no-label" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_mid_1_ecw_1/group_ni5gp70_mid_1_ecw_1_centre">
+        <label>&lt;span style="display:none"&gt;mid_1_ecw_1-Centre&lt;/span&gt;</label>
+      </input>
+      <input appearance="w1 no-label" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_mid_1_ecw_1/group_ni5gp70_mid_1_ecw_1_rhs">
+        <label>&lt;span style="display:none"&gt;mid_1_ecw_1-Right End&lt;/span&gt;</label>
+      </input>
+    </group>
+    <group appearance="w4" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_2_end_1_1">
+      <input appearance="w1" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_2_end_1_1/group_ni5gp70_ecw_2_end_1_1_note">
+        <label>##### At the end</label>
+      </input>
+      <input appearance="w1 no-label" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_2_end_1_1/group_ni5gp70_ecw_2_end_1_1_lhs">
+        <label>&lt;span style="display:none"&gt;ecw_2_end_1_1-Left end&lt;/span&gt;</label>
+      </input>
+      <input appearance="w1 no-label" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_2_end_1_1/group_ni5gp70_ecw_2_end_1_1_centre">
+        <label>&lt;span style="display:none"&gt;ecw_2_end_1_1-Centre&lt;/span&gt;</label>
+      </input>
+      <input appearance="w1 no-label" ref="/aAFoVxGa9HVCoJ7ucA2z2k/group_ni5gp70_ecw_2_end_1_1/group_ni5gp70_ecw_2_end_1_1_rhs">
+        <label>&lt;span style="display:none"&gt;ecw_2_end_1_1-Right End&lt;/span&gt;</label>
+      </input>
+    </group>
+  </h:body>
+</h:html>

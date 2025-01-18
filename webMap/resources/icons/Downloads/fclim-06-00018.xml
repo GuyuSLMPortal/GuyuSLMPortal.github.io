@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<article xml:lang="EN" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">Front. Clim.</journal-id>
+<journal-title>Frontiers in Climate</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Front. Clim.</abbrev-journal-title>
+<issn pub-type="epub">2624-9553</issn>
+<publisher>
+<publisher-name>Frontiers Media S.A.</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.3389/fclim.2024.1301908</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Climate</subject>
+<subj-group>
+<subject>Original Research</subject>
+</subj-group>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Incorporating indigenous knowledge systems-based climate services in anticipatory action in Zimbabwe: an ex-ante assessment</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name><surname>Dube</surname> <given-names>Thulani</given-names></name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<xref ref-type="corresp" rid="c001"><sup>&#x0002A;</sup></xref>
+<uri xlink:href="http://loop.frontiersin.org/people/1416742/overview"/>
+<role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/>
+<role content-type="https://credit.niso.org/contributor-roles/data-curation/"/>
+<role content-type="https://credit.niso.org/contributor-roles/formal-analysis/"/>
+<role content-type="https://credit.niso.org/contributor-roles/investigation/"/>
+<role content-type="https://credit.niso.org/contributor-roles/methodology/"/>
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/"/>
+<role content-type="https://credit.niso.org/contributor-roles/supervision/"/>
+<role content-type="https://credit.niso.org/contributor-roles/validation/"/>
+<role content-type="https://credit.niso.org/contributor-roles/visualization/"/>
+<role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/"/>
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Huhn</surname> <given-names>Anna Lena</given-names></name>
+<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+<role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/>
+<role content-type="https://credit.niso.org/contributor-roles/formal-analysis/"/>
+<role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/"/>
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/"/>
+<role content-type="https://credit.niso.org/contributor-roles/resources/"/>
+<role content-type="https://credit.niso.org/contributor-roles/validation/"/>
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Guimar&#x000E3;es Nobre</surname> <given-names>Gabriela</given-names></name>
+<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+<role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/>
+<role content-type="https://credit.niso.org/contributor-roles/formal-analysis/"/>
+<role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/"/>
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/"/>
+<role content-type="https://credit.niso.org/contributor-roles/resources/"/>
+<role content-type="https://credit.niso.org/contributor-roles/validation/"/>
+<role content-type="https://credit.niso.org/contributor-roles/visualization/"/>
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Moyo</surname> <given-names>Elisha Nyikadzino</given-names></name>
+<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+<role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/>
+<role content-type="https://credit.niso.org/contributor-roles/formal-analysis/"/>
+<role content-type="https://credit.niso.org/contributor-roles/validation/"/>
+<role content-type="https://credit.niso.org/contributor-roles/visualization/"/>
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/>
+</contrib>
+<contrib contrib-type="author">
+<name><surname>Enenkel</surname> <given-names>Markus</given-names></name>
+<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
+<uri xlink:href="http://loop.frontiersin.org/people/863979/overview"/>
+<role content-type="https://credit.niso.org/contributor-roles/conceptualization/"/>
+<role content-type="https://credit.niso.org/contributor-roles/methodology/"/>
+<role content-type="https://credit.niso.org/contributor-roles/project-administration/"/>
+<role content-type="https://credit.niso.org/contributor-roles/funding-acquisition/"/>
+<role content-type="https://credit.niso.org/contributor-roles/supervision/"/>
+<role content-type="https://credit.niso.org/contributor-roles/validation/"/>
+<role content-type="https://credit.niso.org/contributor-roles/visualization/"/>
+<role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/"/>
+</contrib>
+</contrib-group>
+<aff id="aff1"><sup>1</sup><institution>Centre for Evaluation Science, Faculty of Humanities and Social Sciences, Lupane State University</institution>, <addr-line>Lupane</addr-line>, <country>Zimbabwe</country></aff>
+<aff id="aff2"><sup>2</sup><institution>United Nations World Food Programme, Regional Bureau for Southern Africa and Indian Ocean States</institution>, <addr-line>Johannesburg</addr-line>, <country>South Africa</country></aff>
+<aff id="aff3"><sup>3</sup><institution>Research, Assessment and Monitoring Division, United Nations World Food Programme</institution>, <addr-line>Rome</addr-line>, <country>Italy</country></aff>
+<aff id="aff4"><sup>4</sup><institution>Climate Risk Management, World Food Programme</institution>, <addr-line>Harare</addr-line>, <country>Zimbabwe</country></aff>
+<aff id="aff5"><sup>5</sup><institution>The World Bank</institution>, <addr-line>Washington, DC</addr-line>, <country>United States</country></aff>
+<author-notes>
+<fn fn-type="edited-by"><p>Edited by: Diriba Korecha Dadi, University of California, Santa Barbara, United States</p></fn>
+<fn fn-type="edited-by"><p>Reviewed by: Asaminew Teshome, National Meteorology Agency (NMA), Ethiopia</p>
+<p>Dagnachew Daniel Molla, Arba Minch University, Ethiopia</p></fn>
+<corresp id="c001">&#x0002A;Correspondence: Thulani Dube <email>thutsdube&#x00040;gmail.com</email></corresp>
+</author-notes>
+<pub-date pub-type="epub">
+<day>28</day>
+<month>02</month>
+<year>2024</year>
+</pub-date>
+<pub-date pub-type="collection">
+<year>2024</year>
+</pub-date>
+<volume>6</volume>
+<elocation-id>1301908</elocation-id>
+<history>
+<date date-type="received">
+<day>25</day>
+<month>09</month>
+<year>2023</year>
+</date>
+<date date-type="accepted">
+<day>12</day>
+<month>02</month>
+<year>2024</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>Copyright &#x000A9; 2024 Dube, Huhn, Guimar&#x000E3;es Nobre, Moyo and Enenkel.</copyright-statement>
+<copyright-year>2024</copyright-year>
+<copyright-holder>Dube, Huhn, Guimar&#x000E3;es Nobre, Moyo and Enenkel</copyright-holder>
+<license xlink:href="http://creativecommons.org/licenses/by/4.0/"><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</p></license>
+</permissions>
+<abstract>
+<sec>
+<title>Introduction</title>
+<p>The success of anticipatory action (AA) in climate change related disaster risk reduction depends largely on the ability to accurately predict adverse weather events and to subsequently take appropriate and timely action. The current seasonal climate forecasts obtained through national and global forecasting centers such as the Zimbabwe Meteorological Services Department (MSD) and the European Center for Medium-Range Weather Forecasts (ECMWF) have been found to have several limitations including limited skill in intra-seasonal variability which is vital in most processes, lack of accessibility, difficult interpretability and applicability to local communities. As a result, calls for the integration of Indigenous Knowledge Systems (IKS)-based climate services in seasonal climate forecasting to bolster the efficacy and accuracy of forecasts are increasing.</p></sec>
+<sec>
+<title>Methodology</title>
+<p>The study employed a mixed methods approach combining a survey of 200 household heads, document reviews and key informant interviews with IKS specialists, AA community of practice members and disaster risk reduction specialists.</p></sec>
+<sec>
+<title>Results</title>
+<p>This article presents the findings of a study carried out in four semi-arid districts of Zimbabwe (Mbire, Matobo, Binga, and Mudzi) to assess the feasibility of integrating IKS into the drought AA mechanism at national, district, and ward level. We find that 82% of the surveyed households used indigenous knowledge systems for seasonal climate forecasting and extreme weather forecasting combined with scientific forecasts. Respondents demonstrated preference for triangulated forecasting to increase reliability. Both the meteorological approaches to seasonal climate forecasting and the IKS based forecasting had different strengths and weaknesses.</p></sec>
+<sec>
+<title>Discussion</title>
+<p>Based on the found gaps in current seasonal forecasting techniques, local applicability, and limited quantitative analysis in IKS, this study provides a guideline on how scientific and IKS forecasting can be triangulated for leveraging forecasting information in Zimbabwe. The use of IKS may be of utmost relevance to agencies and entities seeking the achievement of drought risk reduction through AA programmes.</p></sec></abstract>
+<kwd-group>
+<kwd>anticipatory action</kwd>
+<kwd>indigenous knowledge systems</kwd>
+<kwd>climate services</kwd>
+<kwd>forecast-based financing</kwd>
+<kwd>disaster risk reduction</kwd>
+</kwd-group>
+<counts>
+<fig-count count="2"/>
+<table-count count="4"/>
+<equation-count count="0"/>
+<ref-count count="45"/>
+<page-count count="15"/>
+<word-count count="11027"/>
+</counts>
+<custom-meta-wrap>
+<custom-meta>
+<meta-name>section-at-acceptance</meta-name>
+<meta-value>Climate Services</meta-value>
+</custom-meta>
+</custom-meta-wrap>
+</article-meta>
+</front>
+<body>
+<sec id="s1">
+<title>1 Introduction</title>
+<p>Indigenous climate services can play a vital role in improving the effectiveness of Anticipatory Action (AA) as a disaster risk reduction strategy. AA is a flagship initiative to manage climate-related risks in a proactive manner and is part of a larger portfolio of climate action programmes within the UN World Food Programme (WFP) and several other institutions (WFP, <xref ref-type="bibr" rid="B45">2019b</xref>). AA is essentially a disaster risk financing model, which ensures that action can be taken to mitigate disasters prior to impact through the use of credible seasonal and weather forecasts and pre-allocated funding (WFP, <xref ref-type="bibr" rid="B44">2019a</xref>). When implemented appropriately, AA can reduce the humanitarian case load by taking mitigatory actions that reduce the impact of disasters utilizing the window period between a forecast and the start of an extreme weather event (WFP, <xref ref-type="bibr" rid="B44">2019a</xref>). Furthermore, AA (also known as Forecast-based Financing) advances traditional early warning approaches toward an impact-based forecasting approach by combining risk analysis, understanding of potential impacts and analysis of forecast reliability (Costella et al., <xref ref-type="bibr" rid="B10">2018</xref>). Related early actions seek to change the paradigm of humanitarian response toward more localized and resilience building solutions in addressing and preventing humanitarian crisis (Bengtsson, <xref ref-type="bibr" rid="B3">2018</xref>; Jokinen, <xref ref-type="bibr" rid="B24">2019</xref>). Traditionally, humanitarian funding has predominantly been availed once a disaster strikes, meaning that humanitarian responses are mobilized only after an extreme weather event has resulted in catastrophic damages and losses for the most vulnerable and food-insecure people (WFP, <xref ref-type="bibr" rid="B44">2019a</xref>). For slow-onset events, such as droughts, assistance often reaches people months after crops have failed and livestock are lost, which often results in households adopting negative coping strategies (WFP, <xref ref-type="bibr" rid="B44">2019a</xref>). However, recent advancements and increased skill of seasonal forecasting systems, especially of slow-onset events, opens a window of opportunity for a more dignified, faster and predictable manner of humanitarian operations (Poudel, <xref ref-type="bibr" rid="B40">2020</xref>). Calls for disaster prevention have also been observed from the COVID-19 pandemic, in which countries who were better prepared acted earlier and fared better (Disaster Risk Finance Community of Practice, <xref ref-type="bibr" rid="B12">2020</xref>).</p>
+<p>However, the success of anticipatory action, depends to a large extent on the ability to accurately forecast adverse weather events and to subsequently take appropriate action both at the institutional and individual levels (Coughlan de Perez et al., <xref ref-type="bibr" rid="B11">2015</xref>; Heinrich and Bailey, <xref ref-type="bibr" rid="B21">2020</xref>). Previous research has shown that farmers who access and utilize seasonal climate forecasts can make more diversified farming decisions such as the purchase of seed varieties, better planning on use of fertilizers, and more-informed determination of the time of planting and plant density per planted area (Chisadza et al., <xref ref-type="bibr" rid="B9">2013</xref>; Dube et al., <xref ref-type="bibr" rid="B14">2016</xref>). In general, climate forecasting assists farmers and stakeholders to maximize yields where conditions are favorable by preparing the right inputs and investments, whereas in a year with extreme weather events, farmers can more effectively protect their families, crops and livestock (Blench, <xref ref-type="bibr" rid="B5">1999</xref>; Luseno et al., <xref ref-type="bibr" rid="B27">2003</xref>; Alvera, <xref ref-type="bibr" rid="B2">2013</xref>; Moyo and Dube, <xref ref-type="bibr" rid="B34">2014</xref>).</p>
+<p>In Zimbabwe, national weather and seasonal rainfall forecasts are obtained through the Zimbabwe Meteorological Services Department (MSD), which plays an important role in anticipatory actions. However, the MSD&#x00027;s forecasts are currently facing limitations related to low resolution (spatially and temporally), difficult accessibility, and low predictive skill at the local ward, village and household level (Moyo, <xref ref-type="bibr" rid="B33">2020</xref>). These issues can hinder the ability of local farmers to properly use forecasts. This situation is not perculiar for Zimbabwe. Across the African continent, a significant portion of the rural population have limited access to scientific forecasts. As a result, they depend on Indigenous Knowledge Systems (IKS)-based forecasting which they have used and relied on over centuries (Tanyanyiwa, <xref ref-type="bibr" rid="B43">2018</xref>). One of the strengths of IKS is that the indicators are locally accessible in different geographic locations, enabling even remote communities to have access to relevant forecasting information (Dube et al., <xref ref-type="bibr" rid="B14">2016</xref>). The various challenges that are related to the accessibility, reliability and use of &#x0201C;contemporary&#x0201D; meteorology-based weather and climate forecasting methods have led to increasing calls for consideration for the utilization or integration of indigenous knowledge systems in seasonal forecasting to bolster the efficacy and accuracy of forecasts. Most IKS indicators are observable several months before the onset of the rainy season, thus enabling anticipatory planning (Chisadza et al., <xref ref-type="bibr" rid="B9">2013</xref>).</p>
+<sec>
+<title>1.1 Conceptualizing indigenous knowledge systems in climate forecasting</title>
+<p>The term &#x0201C;indigenous knowledge&#x0201D; refers to the sum of facts and place-based knowledge known or learnt from cumulative day-today experience or acquired through cumulative repetitive observation and experience (Mapara, <xref ref-type="bibr" rid="B30">2009</xref>; Chisadza et al., <xref ref-type="bibr" rid="B9">2013</xref>; Jiri et al., <xref ref-type="bibr" rid="B23">2016</xref>) and study and handed down from generation to generation by individuals and communities (Berkes et al., <xref ref-type="bibr" rid="B4">2000</xref>; Sillitoe, <xref ref-type="bibr" rid="B42">2009</xref>; Orlove et al., <xref ref-type="bibr" rid="B39">2010</xref>). IKS is set of knowledge that is orally passed on from generation to generation and is learned through observing the environment around communities. The concept of IKS has increasingly become topical and is increasingly being accepted in the disasters and development discourse as integral to addressing multiple challenges faced by rural communities due to climate change (Moonga and Chitambo, <xref ref-type="bibr" rid="B32">2010</xref>). The past decade has witnessed an emerging and dominant view that places emphasis on local knowledge as a key component of an agricultural system and the view that instead, scientific knowledge must enhance local knowledge, rather than displace it (Acharya, <xref ref-type="bibr" rid="B1">2011</xref>; Jain, <xref ref-type="bibr" rid="B22">2014</xref>). Indigenous knowledge possesses a strong practical emphasis that is oriented toward agricultural planning and exhibits dynamism that allows for incorporation of new elements (Orlove et al., <xref ref-type="bibr" rid="B39">2010</xref>; Kolawole et al., <xref ref-type="bibr" rid="B25">2014</xref>). More recent studies have shown that resilience building for smallholder farmers in Africa is a process that starts with the ability to anticipate climatic change impacts and accordingly adjust farming practices and set the base for sound food security, particularly in the context of climate variability and change (Kolawole et al., <xref ref-type="bibr" rid="B25">2014</xref>). Mafongoya et al. (<xref ref-type="bibr" rid="B28">2021</xref>) acknowledge that, IKS is important in providing seasonal forecasting information, which is critical in making decisions in planning, designing cropping calendars, offering early warnings, as well informing preparedness against disasters. This is due to the fact that IKS is considered to form the basis of local-level decision-making in many rural communities on the continent, as such it will be difficult for communities to be resilient without it (Masekoameng and Molotja, <xref ref-type="bibr" rid="B31">2019</xref>). Previous research has argued that IKS plays an important role in climate forecasting in Africa&#x00027;s smallholder farming communities, particularly in occasionally predicting local weather information and frost (Chisadza et al., <xref ref-type="bibr" rid="B8">2018</xref>). According to Nhemachena (<xref ref-type="bibr" rid="B38">2015</xref>), this knowledge only qualifies to be IKS if it has significantly helped in the solving of problems that include problems related to climate change and variability among many other socio-environmental problems.</p>
+<p>Therefore, given the importance of indigenous climate knowledge climate systems in leveraging the potential of anticipatory action to reduce climate risks, this study investigates the potential for the triangulation of IKS and scientific knowledge and forecasting through three set of objectives: (i) to review the current usage of Indigenous Climate Services in Zimbabwe; (ii) to investigate the extent and provision of Indigenous Climate Services and possible integration in anticipatory action, and (iii) to provide guidance on how to integrate and use IKS in anticipatory action.</p>
+<p><xref ref-type="table" rid="T1">Table 1</xref> shows that several studies have been conducted in Zimbabwe about seasonal climate forecasting. However, most of the studies fall short in addressing the issue of using scientific seasonal climate forecasting and indigenous knowledge systems to inform anticipatory action. The study by Mubaya et al. (<xref ref-type="bibr" rid="B35">2017</xref>) reviews secondary literature on the use of IKS concerning seasonal climate predictions. The study by Chanza (<xref ref-type="bibr" rid="B7">2014</xref>) investigated the use of indigenous knowledge systems in seasonal climate forecasting in Muzarabani, Zimbabwe. The study examined the use of IKS biotic indicators by local communities and the disaster risk reduction anticipatory actions taken by local communities including the use of adaptable seed varieties and the relocation of local communities away from flood prone areas in the case of impending floods. Similar studies by Mugambiwa (<xref ref-type="bibr" rid="B36">2018</xref>) and Grey and Manyani (<xref ref-type="bibr" rid="B19">2020</xref>) focusing on Chirumhanzu and Mutoko respectively sought to understand how indigenous knowledge systems could be used in seasonal climate forecasting to build smallholder farmers responses toward climate change. The studies established that households were employing a variety of anticipatory action measures to respond to seasonal climate predictions made through IKS including grain stocking, early planting, conservation farming, appropriate seed varieties and dry planting.</p>
+<table-wrap position="float" id="T1">
+<label>Table 1</label>
+<caption><p>Key studies conducted on IKS and seasonal climate forecasting in Zimbabwe.</p></caption>
+<table frame="box" rules="all">
+<thead>
+<tr style="background-color:#919498;color:#ffffff">
+<th valign="top" align="left"><bold>References</bold></th>
+<th valign="top" align="left"><bold>Study objectives</bold></th>
+<th valign="top" align="left"><bold>District</bold></th>
+<th valign="top" align="left"><bold>IKS indicators identified</bold></th>
+<th valign="top" align="left"><bold>Anticipatory actions proposed</bold></th>
+<th valign="top" align="left"><bold>IKS integration framework proposed</bold></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Mubaya et al. (<xref ref-type="bibr" rid="B35">2017</xref>)</td>
+<td valign="top" align="left">This publication utilizes secondary sources to put together findings from Zimbabwe about the use of IKS concerning seasonal climate predictions.</td>
+<td valign="top" align="left">National</td>
+<td valign="top" align="left">Lists a number of indicators divided as follows: 1) Plant phenology 2) Animal behavior 3) atmospheric indicators 4) Other indicators.<break/> The indicators discussed in this article are not area specific and therefore difficult to use in practice since IKS is localized.</td>
+<td valign="top" align="left">The following anticipatory actions were documented as being used in farmers;<break/> &#x02022; The shifting of planting dates and cultivars to suit the specific weather event such as delays in the onset or impending onset of rains<break/> &#x02022; Allocation of land resources and investments<break/> &#x02022; Management of livestock and food stocks<break/> &#x02022; Replanting<break/> &#x02022; Some households lacked resources to make use of forecasts</td>
+<td valign="top" align="left">This article proposes a participatory approach in the integration of the two knowledge systems where the capacity of farmer groups is built to enable them to measure on their own; Proposal for a &#x00027;third place&#x00027; convergence zone between Scientists and IKS practitioners</td>
+</tr>
+<tr>
+<td valign="top" align="left">Chanza (<xref ref-type="bibr" rid="B7">2014</xref>)</td>
+<td valign="top" align="left">This study documented IKS weather and climate forecasting indicators in Muzarambani. It also examined the adaptation measures utilized by local farmers in view of the IKS forecasts.</td>
+<td valign="top" align="left">Muzarabani</td>
+<td valign="top" align="left">The indicators investigated are mostly those related to meteorology:<break/> &#x02022; Temperature trends<break/> &#x02022; Wind characteristics<break/> &#x02022; Cloud characteristics<break/> Trees and animals were not given any meaningful attention.</td>
+<td valign="top" align="left">&#x02022; Zunde ramambo (Chief&#x00027;s food reserves)<break/> &#x02022; Nhimbe (working parties)<break/> &#x02022; Rain making ceremonies.<break/> &#x02022; In the case of floods forecasted through IKS indicators like shuramurove beds, people move from riverine locations.<break/> &#x02022; Building of hozi (building one meter above ground as a defense mechanism against floods) was also documented.</td>
+<td valign="top" align="left">The article did not propose any integration framework</td>
+</tr>
+<tr>
+<td valign="top" align="left">Dube et al. (<xref ref-type="bibr" rid="B14">2016</xref>)</td>
+<td valign="top" align="left">The study examined the possibility of using IKS indicators alongside MSD SCFs in anticipatory planning in Matobo, Zimbabwe. It compared the characteristics of the two knowledge forms and the challenges and opportunities of combining them.</td>
+<td valign="top" align="left">Matobo</td>
+<td valign="top" align="left">The article documents farmers views about IKS and its usability, but it does not collect specific indicators.</td>
+<td valign="top" align="left">The article did not discuss anticipatory actions linked to IKS forecasts.</td>
+<td valign="top" align="left">The article proposes a parallel system of IKS and MSD SCFs because of their different epistemological backgrounds. It is proposed that they should each be processed separately but the results are interpreted in an inclusive/ integrated participatory platform to reach a common agreement.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gwenzi et al. (<xref ref-type="bibr" rid="B20">2016</xref>)</td>
+<td valign="top" align="left">This main objective of this study was to document indigenous knowledge systems (IKS) used for short- and long-range rainfall prediction by small holder farmers in Guruve District, Zimbabwe. The article also assessed farmers&#x00027; perceptions of the reliability of both IKS and scientific forecasts.</td>
+<td valign="top" align="left">Guruve</td>
+<td valign="top" align="left">Tree phenology, migration and behavior of some bird species and insects, and observation of atmospheric phenomena were the common indicators identified.</td>
+<td valign="top" align="left">The study did not investigate anticipatory actions.</td>
+<td valign="top" align="left">While the study advocates the integration of IKS and Scientific forecasting methods, no clear framework is provided for this integration.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Brazier (<xref ref-type="bibr" rid="B6">2020</xref>)</td>
+<td valign="top" align="left">The aim of this study was to gather, share and celebrate indigenous knowledge from across Zimbabwe to help communities adapt to climate change.</td>
+<td valign="top" align="left">National</td>
+<td valign="top" align="left">Various bird indicators; Animals and insects; Vegetation, Terrestrial Objects; wind direction and behavior</td>
+<td valign="top" align="left">&#x02022; Planting special grass called umnyankomo around ponds to reduce evaporation<break/> &#x02022; Water-harvesting methods including ridges (makandiwa/ amagandiwa)<break/> &#x02022; Chitememe (bush fallow)&#x02014;for mulching and keeping the soil moist<break/> &#x02022; Planting small grains<break/> &#x02022; Growing less water consuming livestock including chickens</td>
+<td valign="top" align="left">The article did not propose any integration framework</td>
+</tr>
+<tr>
+<td valign="top" align="left">Chisadza et al. (<xref ref-type="bibr" rid="B9">2013</xref>)</td>
+<td valign="top" align="left">The study identified, analyzed and documented indigenous knowledge systems indicators used for forecasting drought in uMzingwane Catchment area. It also examined the possibility of integrating the methods with meteorological science.</td>
+<td valign="top" align="left">Umzingwane</td>
+<td valign="top" align="left">The researchers identify three types of indicators used in Umzingwane, namely (1) plants, (2) insects and animals, and (3) the wind, moon, and sun. They detail the specific indicators used.</td>
+<td valign="top" align="left">The study did not investigate any anticipatory actions taken by the communities</td>
+<td valign="top" align="left">The article did not propose any integration framework</td>
+</tr>
+<tr>
+<td valign="top" align="left">Grey and Manyani (<xref ref-type="bibr" rid="B19">2020</xref>)</td>
+<td valign="top" align="left">The overall objective was to understand the local household&#x00027;s responses to the changing climate especially drought.</td>
+<td valign="top" align="left">Chirumhanzu</td>
+<td valign="top" align="left">No IKS forecasting indicators were discussed in this article. Only adaptative IKS responses were discussed i.e., zunde ramambo</td>
+<td valign="top" align="left">Common anticipatory actions taken by communities were identified as;<break/> &#x02022; Grain Stocking<break/> &#x02022; Early Planting<break/> &#x02022; Conservation Farming<break/> &#x02022; Appropriate Seed Varieties<break/> &#x02022; Dry planting</td>
+<td valign="top" align="left">The article did not propose any integration framework</td>
+</tr>
+<tr>
+<td valign="top" align="left">Alvera (<xref ref-type="bibr" rid="B2">2013</xref>)</td>
+<td valign="top" align="left">The objective of this study was to identify IKS rainfall indicators and how they could be used in seasonal rainfall forecasting to reduce food insecurity in Mbire District in the context of climate change.</td>
+<td valign="top" align="left">Mbire</td>
+<td valign="top" align="left">A variety of IKS indicators were documented that include plant, animal and astrological and meteorological indicators.</td>
+<td valign="top" align="left">The study generally found out that the interviewed farmers continued with business as usual in their agricultural decisions even when they received drought forecasts. This is not in tandem with findings elsewhere where farmers took action based on forecasts, e.g., Matobo District (Dube et al., <xref ref-type="bibr" rid="B14">2016</xref>).</td>
+<td valign="top" align="left">The article did not propose any integration framework</td>
+</tr>
+<tr>
+<td valign="top" align="left">Kupika et al. (<xref ref-type="bibr" rid="B26">2019</xref>)</td>
+<td valign="top" align="left">The main objectives of the article were to explore what local communities understand about climate change and its local impacts, and to identify local biophysical impacts and adaptation strategies employed by locals.</td>
+<td valign="top" align="left">Hurungwe</td>
+<td valign="top" align="left">No IKS forecasting indicators were discussed in this article. Communities were asked to use their local ecological knowledge to observe climatic changes in retrospect.</td>
+<td valign="top" align="left">The study identified the following anticipatory actions as being commonly used in the communities studied:<break/> &#x02022; Water harvesting techniques such as digging wells; irrigation of crops and vegetables during dry spells,<break/> &#x02022; Illegal harvesting of wild fruits<break/> &#x02022; Poaching of wild animals<break/> &#x02022; Production of handicrafts to supplement income</td>
+<td valign="top" align="left">The article did not propose any integration framework</td>
+</tr>
+<tr>
+<td valign="top" align="left">Mugambiwa (<xref ref-type="bibr" rid="B36">2018</xref>)</td>
+<td valign="top" align="left">This research investigated the use of indigenous knowledge systems to adaptation climate change in Mutoko District.</td>
+<td valign="top" align="left">Mutoko</td>
+<td valign="top" align="left">The article does not investigate climate forecasting indicators. It investigates indigenous methods crops and methods used to adapt to climate change</td>
+<td valign="top" align="left">The following anticipatory actions were documented by the study;<break/> &#x02022; Use of traditional grains including sorghum and millet;<break/> &#x02022; Mujogo - small pit digging for plants (for water and nutrient conservation)<break/> &#x02022; Burning charcoal to create fertilizer for crops<break/> &#x02022; Land-pre-tilling to capture more rain water</td>
+<td valign="top" align="left">The article did not propose any integration framework</td>
+</tr>
+<tr>
+<td valign="top" align="left">Munsaka and Dube (<xref ref-type="bibr" rid="B37">2018</xref>)</td>
+<td valign="top" align="left">This article examined the contribution of indigenous knowledge to disaster risk reduction activities in Tsholotsho, Zimbabwe. They studied IKS indicators to forecast flooding.</td>
+<td valign="top" align="left">Tsholotsho</td>
+<td valign="top" align="left">Trees, animal behavior and clouds</td>
+<td valign="top" align="left">The study noted that key pre-flooding anticipatory actions included;<break/> 1. land zoning 2. relocating livestock shelters to higher ground</td>
+<td valign="top" align="left">No concrete integration plans were discussed, except the recommendation that local authorities should take IKS knowledge on board for Disaster Risk Reduction.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Tanyanyiwa (<xref ref-type="bibr" rid="B43">2018</xref>)</td>
+<td valign="top" align="left">This study sought to identify and document climate forecasting IKS indicators in Domboshava and to assess the possibility using these indicators as an early warning system for local farmers. The study also investigated the possibility of integrating the IKS with MSD SCFs.</td>
+<td valign="top" align="left">Goromonzi</td>
+<td valign="top" align="left">Various bird indicators; Animals and insects; Vegetation, Terrestrial Objects; wind direction and behavior</td>
+<td valign="top" align="left">Anticipatory actions were not discussed in this article</td>
+<td valign="top" align="left">The article proposes a hybrid forecast but the logistics are not clarified.</td>
+</tr></tbody>
+</table>
+</table-wrap>
+<p>The majority of studies reviewed in <xref ref-type="table" rid="T1">Table 1</xref> (e.g., Tanyanyiwa, <xref ref-type="bibr" rid="B43">2018</xref>; Kupika et al., <xref ref-type="bibr" rid="B26">2019</xref>) simply documented the biotic indicators used in IKS seasonal climate forecasting with applying the concept of anticipatory action meaningfully. Studies by researchers such as Dube et al. (<xref ref-type="bibr" rid="B14">2016</xref>) and Gwenzi et al. (<xref ref-type="bibr" rid="B20">2016</xref>) assessed the possibility of drawing forecasts from both IKS and scientific climate forecasts. These studies examined the similarities and differences between IKS and scientific forecasting methods and their respective strengths and weaknesses. However, the two studies did not address the issue of taking anticipatory action in the districts that were studied. The studies paid less or no attention on anticipatory action. The purpose of this current study is to understand the role that IKS could play in developing anticipatory actions. This current study thus fills in the gap by linking IKS with anticipatory action. The few studies that have sought to link IKS with anticipatory action have tended to be isolated and localized in different minute regions of Zimbabwe. This current study attempts a more widespread and generalized assessment covering four districts across four provinces in Zimbabwe.</p>
+</sec>
+</sec>
+<sec id="s2">
+<title>2 Methodology</title>
+<p>The study was conducted using a mixed methods approach that combines qualitative and quantitative approaches. Desk reviews, key informant interviews and a survey questionnaire were used. A desk review of research that has been conducted in Zimbabwe and other parts of Africa was done to establish the current state of IKS on weather and climate forecasting in Zimbabwe and Africa in general (overview available in <xref ref-type="table" rid="T1">Table 1</xref>). Sixteen key informant interviews were held with purposively selected key AA stakeholders including selected WFP programme staff, WFP partner organizations, members of the AA Community of Practice in Zimbabwe, Meteorological Services Department Officials, District Agriculture and Extension Services (AGRITEX) Officers, District Agronomists, Lead Farmers at District Levels and recognized Indigenous Knowledge Practitioners at District and Ward Levels and traditional leadership representatives. Among other issues, key informant interviewees were asked about their views with regards to what they considered to be the main climate related hazards in the four selected study sites. They were further requested to express their views about the strengths and weaknesses of the meteorological methods for seasonal climate forecasting. Key informant respondents were also asked about their opinions with regards to the use of indigenous climate forecasting methods and the possibility of integrating indigenous methods with meteorological methods of seasonal climate forecasting.</p>
+<p>A total of 200 households were targeted through a mobile phone-based survey across four AA pilot districts. The districts are located semi-arid regions in Zimbabwe that are prone to droughts and flooding, namely: Binga, Matobo, Mbire, and Mudzi. The household (HH) survey targeted respondents from these districts where an AA project are being implemented. Approximately equal numbers of households were selected across the different districts with stratification done on wards using available sampling frames from WFP and partner organizations. The study also took gender representation into consideration in the selection of respondents. <xref ref-type="table" rid="T2">Table 2</xref> shows the distribution of respondents by age across the sites. Fifty nine percent (59%) of the respondents were males while 41% were females. The average age of respondents varied across the different districts. The average age varied between 44 years for Mbire and 56 years for Matobo respondents. This is significant because indigenous knowledge tends to reside more with the older members of the community. In the questionnaire respondents were asked to indicate the main climate related hazards in their study sites. They were also asked to indicate their preferred method for seasonal climate forecasting between meteorological methods and indigenous methods. Study participants were also asked to rate their trust for each of the two methods. Respondents were further asked to indicate the anticipatory action methods that they were likely to take after receiving seasonal climate forecasting information.</p>
+<table-wrap position="float" id="T2">
+<label>Table 2</label>
+<caption><p>Number of respondents and average age per site.</p></caption>
+<table frame="box" rules="all">
+<thead>
+<tr style="background-color:#919498;color:#ffffff">
+<th valign="top" align="left"><bold>District</bold></th>
+<th valign="top" align="center"><bold>Number of respondents</bold></th>
+<th valign="top" align="center"><bold>Average age of respondents</bold></th>
+<th valign="top" align="center"><bold>Average number of years located in the study site by respondents</bold></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Binga</td>
+<td valign="top" align="center">54</td>
+<td valign="top" align="center">48</td>
+<td valign="top" align="center">33</td>
+</tr>
+<tr>
+<td valign="top" align="left">Matobo</td>
+<td valign="top" align="center">55</td>
+<td valign="top" align="center">56</td>
+<td valign="top" align="center">36</td>
+</tr>
+<tr>
+<td valign="top" align="left">Mbire</td>
+<td valign="top" align="center">51</td>
+<td valign="top" align="center">44</td>
+<td valign="top" align="center">29</td>
+</tr>
+<tr>
+<td valign="top" align="left">Mudzi</td>
+<td valign="top" align="center">53</td>
+<td valign="top" align="center">47</td>
+<td valign="top" align="center">33</td>
+</tr></tbody>
+</table>
+</table-wrap>
+<sec>
+<title>2.1 Study sites</title>
+<p>The four districts lie in agroecological regions IV and V, which are characterized by low and erratic rainfall (450&#x02013;650 mm/year) with very high temperatures and inherently poor soils. <xref ref-type="fig" rid="F1">Figure 1</xref> shows the geographical location of the study sites. Climate change has worsened the already extreme climate patterns in the districts resulting in notable food shortages. Key economic activities include smallholder mixed crop-livestock systems. Maize, sorghum, millet and groundnuts are the main crops grown in all districts albeit at different scales. Livestock include mainly cattle and goats which often face the risk of overstocking. Consequently, the pastures and grazing lands for their livestock have been depleted. All the four districts are located on the fringes of the country which form the borders with neighboring countries with Mozambique (Mbire and Mudzi), Botswana (Matobo), and Zambia (Binga, Mbire).</p>
+<fig id="F1" position="float">
+<label>Figure 1</label>
+<caption><p>Map showing the location of study Districts in Zimbabwe.</p></caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fclim-06-1301908-g0001.tif"/>
+</fig>
+<sec>
+<title>2.1.1 Binga District</title>
+<p>Binga District is located in the Northen part of Matabeleland North province in Zimbabwe. It is one of the seven districts of the province. Binga District lies by the Zambezi river which borders Zimbabwe and Zambia (Food and Nutrition Council, <xref ref-type="bibr" rid="B15">2021a</xref>). The district is mostly located in the ecological regions 4 and 5 which are mostly semi-arid receiving rainfall amounts of between 350 mm to about 450 mm per year. The rainfall patterns are also often erratic leading to frequent agricultural droughts. Because of poor crop productivity in this district, most communities rely on small livestock production (chickens, rabbits, and goats) and fishing for livelihoods. Poor agricultural productivity in the district has meant that the majority of households frequently depend on government and NGO food handouts for food supply. The district had a total population of 181,386 as of 2021 located in 25 wards (Food and Nutrition Council, <xref ref-type="bibr" rid="B16">2021b</xref>).</p>
+</sec>
+<sec>
+<title>2.1.2 Mbire District</title>
+<p>Mbire District is situated in Mashonaland Central Province in Zimbabwe. The district lies 250 kms to the north of the capital city Harare closer to the Zambian and Mozambican borders. The district has a total land area of 4,695.87 square kilometers. All the land in the district is communally owned. The vast majority (95%) of the population in this area depends on subsistence farming. The district experiences limited and erratic rainfall patterns making agricultural production difficult. Crops are regularly written off due to long dry spells in the region&#x00027;s leading to wilting. Most farmers focus on extensive sorghum, maize and cotton production (Food and Nutrition Council and World Food Programme, <xref ref-type="bibr" rid="B17">2022a</xref>).</p>
+</sec>
+<sec>
+<title>2.1.3 Mudzi District</title>
+<p>Mudzi district is located in the province of Mashonaland East in Zimbabwe. This is one of the nine districts in the province. The district shares a border with Mozambique. It is located 217 kms from the capital city, Harare on the Nyamapanda highway that links Zimbabwe with Mozambique. Mudzi is generally characterized by high temperatures and low rainfall due to its low altitude averaging 535 meters above sea level (Food and Nutrition Council and World Food Programme, <xref ref-type="bibr" rid="B18">2022b</xref>). This makes the district more vulnerable to climate change effects as temperatures rise and rainfall decreases in Zimbabwe. This region is also located in Natural farming regions 4 and 5 meaning that a large part of the area receives erratic rainfall (400 mm&#x02212;450 mm per year). The district had 32,443 households as of 2022 who mostly practiced subsistence agriculture. There is limited mining activity happening in the province targeting gold (Food and Nutrition Council and World Food Programme, <xref ref-type="bibr" rid="B18">2022b</xref>). Agriculture is the primary method of livelihoods (livestock rearing and crop production) for most households in the area. Some people also engage in casual labor during the agricultural season, while some are involved in gold panning and petty trading. Food insecurity is high in the region leading to high levels of stunting (26%) and wasting (2.5%). Malnutrition is an issue of concern in the district (Food and Nutrition Council and World Food Programme, <xref ref-type="bibr" rid="B18">2022b</xref>).</p>
+</sec>
+<sec>
+<title>2.1.4 Matobo District</title>
+<p>This District is located in Matabeleland South, in the Western part of Zimbabwe where Zimbabwe boarders Botswana (Dube, <xref ref-type="bibr" rid="B13">2015</xref>). The District&#x00027;s administrative center, Maphisa lies 120 kilometers from Zimbabwe&#x00027;s second largest city, Bulawayo. Most of Matobo district is semi-arid as it is located in the agro-ecological region 5 which receives some of the least rainfall in Zimbabwe and is therefore most vulnerable to a warming temperature and reduced rainfall influenced by climate change. The average annual rainfall in the district is 350 mm (Dube, <xref ref-type="bibr" rid="B13">2015</xref>). Limited rainfall often results in failed cropping seasons. Furthermore, livestock losses are quite common with 9000 cattle reportedly lost to drought in 2013. As of 2021, it was estimated that the district had a population of 94,000 people on a land area covering some 7,220 km of land (Food and Nutrition Council, <xref ref-type="bibr" rid="B15">2021a</xref>). Because of the rugged mountain terrain, most of this land is uninhabited state land. Most communities drive their livelihoods from subsistence farming gold panning, petty trade and income from relatives working in Botswana and South Africa.</p>
+</sec>
+</sec>
+<sec>
+<title>2.2 Findings of the study</title>
+<sec>
+<title>2.2.1 Common climate hazards</title>
+<p>The study established that the most common climate hazards in the study districts were droughts and floods. Eighty three percent (83%) of the respondents indicated that drought was a common climate hazard in their locations whilst 51% indicated flooding. Heatwaves were associated with droughts in 12% of the responses. The impacts of droughts were most severe on crops and livestock. Respondents indicated that drought and more specifically dry spells led to a reduction in crop yields and increased levels of food and nutrition insecurity. Crop failure was associated with serious household food insecurity, high school dropout rates, early marriages and poor attendance in schools. Significant numbers of livestock were lost in these districts in previous droughts. Furthermore, the survey questionnaire showed that hailstorms also occurred in the focus districts, damaging buildings and infrastructure. It was noted from key informant interviews that weather and climate hazards were closely related to livelihoods in the targeted districts where rain-fed agriculture is the mainstay of livelihoods. Too much or too little precipitation resulted in negative agricultural outcomes. This makes anticipatory actions a suitable approach to reduce the impact of the extreme weather events on the livelihoods of vulnerable HH.</p>
+<p>In all the four districts, the hazard with the largest impact on livelihoods is drought. Key informants highlighted that there was a general lack of boreholes which exacerbated water challenges during droughts. This resulted in people drinking water from unprotected water sources. The provision of water sources and the planting of drought resistant small grains (particularly sorghum and millet) were proposed as part of viable anticipatory actions. However, it was noted that different small grains had to be carefully chosen for different regions with some regions preferring sorghum while others preferred millet. Food aid was also observed as a necessary stopgap measure across all the districts.</p>
+<p>Droughts were experienced in different ways. As one respondent noted;</p>
+<disp-quote><p><italic>Droughts come in different ways. Sometimes it&#x00027;s the late onset of rains, other times the rains come on time but the season is marked by some dry months (prolonged dry spells). Again when the rains come, it may be too late for the planted crops and sometimes too heavy leading to leaching (Local Farmer - Ward 2, Matobo District, 55 years)</italic>.</p></disp-quote>
+</sec>
+<sec>
+<title>2.2.2 Relevant anticipatory actions</title>
+<p>The study sought to establish the anticipatory actions that were considered relevant by stakeholders in the districts targeted by this study. Several issues were identified as being key in taking anticipatory action. Key informant interviews with development partners and community members (HHs) indicated that the most effective anticipatory measures need to target water provision for human consumption, livestock and crops. It was noted that livelihoods in the targeted districts largely relied on agricultural activities. The non-availability of water would cripple livelihoods activities including gardening and livestock production. Thus, impending droughts needed to be addressed by prioritizing water security which had a cascading effect on other sectors of the local economies and livelihoods.</p>
+<p>Other critical anticipatory interventions against drought would entail the provision of appropriate agricultural inputs which include small grains such as millet and sorghum which are drought resistant. It was noted in key informant interviews that such an intervention was important given that many farmers lacked the financial capacity to purchase the right seeds and other inputs even if they received the right forecasts on time.</p>
+<p>To maximize the success of these interventions, key informants recommended that&#x00027;s seasonal climate forecasts (SCFs) and weather forecasts should be frequently disseminated to farmers to ensure that they make the relevant decisions at the local level based on forecasting information. It was mentioned that there was need to improve the MSD&#x00027;s seasonal climate forecasts (SCFs) dissemination mechanisms particularly through AGRITEX. Currently, AGRITEX was not reaching all farmers due to mobility challenges and poor radio and mobile phone networks. The need for an efficient weather and climate information system also led to calls for the integration of IKS into the pool of forecasting options as will be discussed later.</p>
+<p>Food assistance was also proffered by key informants as another necessary intervention to be considered if forecasts show that agricultural yields would be below the necessary threshold to meet food security requirements. Below threshold forecasts should trigger food assistance funding especially for the most vulnerable members of the community and at-risk populations. However, respondents generally agreed that food aid should not be the primary focus of AA. Resilience building efforts were more critical, which increases the need for more coordinated and aligned risk reduction strategies at the short- and long-term. Accordingly, Food for Assets projects and other related interventions (and not humanitarian aid) were broadly viewed as the best approach as they also brought with them a resilience building dimension. Livestock programming was seen as lacking in most programs addressing climate hazards.</p>
+<disp-quote><p><italic>Usually, annual total rainfall does not deviate much from the normal, but it&#x00027;s the seasonal distribution of rain that has changed a lot. Partners must spend more resources on sustainable water harvesting such as weir dams, dams, drilling high yielding boreholes to allow for irrigation so that farmers crops may survive the growing season droughts and use green gardens during the dry season</italic> (Key Informant, International NGO, Mudzi District).</p></disp-quote>
+<p>Farmers indicated that when they receive seasonal climate forecasts, they take a number of anticipatory actions related to their farming plans. As one farmer highlighted:</p>
+<disp-quote><p><italic>Depending on when I get the information and the source of the information itself, I will reduce hectarage of my crops, and plant drought tolerant crops and varieties if the indication is that we will have below normal rainfall. If the information indicates there will be good rains, I get more seed and increase hectarage, plan on acquiring more fertilizers and increase crops under cultivation. However, more extreme events like floods and hailstorms or thunderstorms are extremely difficult to forecast with precision. They are difficult to plan for (Mr F, Lead Farmer: Mudzi)</italic>.</p></disp-quote>
+</sec>
+</sec>
+</sec>
+<sec id="s3">
+<title>3 The state of climate services in Zimbabwe</title>
+<sec>
+<title>3.1 The provision of seasonal climate forecasting services in Zimbabwe</title>
+<p>Zimbabwe&#x00027;s MSD plays a key role in providing both short-term and long-range forecasting information used to make decisions about anticipatory actions. The MSD derives its seasonal forecasting data from the Southern African Regional Climate Outlook Forum (SARCOF) process which produces and issues annual regional forecasts for the SADC region (SADC Climate Services Centre, <xref ref-type="bibr" rid="B41">2021</xref>). Furthermore, for anticipatory action purposes, MSD also co-produces with WFP probabilistic drought seasonal forecasts using information from ECMWF. Rainfall forecasts that are drawn from the SARCOF are given in probabilistic terms in the categories of Normal (75%&#x02212;125% of long-term average), Below Normal (below 75% of long-term average), and Above Normal (More than 125% of long-term average). The forecast for each of the categories is given in possibilities expressed in percentages. The highest percentage is the most anticipated forecast (Manatsa et al., <xref ref-type="bibr" rid="B29">2012</xref>). After receiving the SARCOF forecasts the Zimbabwe MSD downscales the forecast to suit local geo-climatic conditions before sharing it with stakeholders such as AGRITEX for onward transmission to farmers and other stakeholders. This forecast is, however, still very coarse and generalized as the whole country is divided into only three &#x0201C;homogenous&#x0201D; forecast zones (expanding over 200 to 300 kms each) (Moyo, <xref ref-type="bibr" rid="B33">2020</xref>).</p>
+</sec>
+<sec>
+<title>3.2 Some key challenges with MSD seasonal climate forecasts and the need for a complementary approach</title>
+<p>Although some respondents felt that they were accessing weather and SCFs in good time, some respondents were of the view that they were receiving the forecasts rather late around September when the farming season starts in October for some locations. Farmers observed that by that time they would have already bought their seeds for planting which makes it difficult to change what they plant to conform with the seasonal forecast. As one key informant noted;</p>
+<disp-quote><p>The reliability of the SCFs is relatively high. However, the information usually comes at a later stage, sometimes in September after we have already bought seeds, only to be told that they will not suffice due to the erratic rains coming <italic>(SM &#x02013; Farmer and Environmental Monitor, Mbire District)</italic>.</p></disp-quote>
+<p>Indigenous knowledge systems on the other hand were favored by IKS practitioners because forecasting information obtained from these indicators was accessible very early in the season since trees used as indicators would start showing as early as in June and July through to August and September. By August most fruit trees would have developed their fruits and IKS practitioners would be knowing the meaning of the forecast because they partly used the fruiting of certain trees as indicators for the coming rainfall season. This allowed ample time for planning for the proper inputs.</p>
+<p>In all the districts that were studied, access to weather and climate forecasting information was noted to be a challenge as the following key informants indicated:</p>
+<disp-quote><p><italic>In Matobo, most of the information from the Met Department about seasonal climate forecasts is passed mostly through social media. You will find that some remote areas like Bhewula have no access to social media and radios. I think we need to seek a better way or strategy of disseminating information (Interview with NK, International NGO Officer)</italic>.</p>
+<p><italic>Currently, in Binga, communities mostly rely on indigenous knowledge systems. They do not seem to use a lot of the scientific forecasts. Binga communities trust IKS because its mostly what is available to them. However, they mentioned that due to changes in climate, lately some of the indicators do not seem to be fully reliable (Interview with SK, UN Agency Worker)</italic></p>
+<p><italic>In Mudzi and Mbire, our technical working groups at district level do not have the Meteorological Services Department offices. We would definitely benefit a lot from integrating IKS to improve our forecasting. Secondly, I think that when we use indigenous knowledge systems it will lead to a lot of buy in from the communities as they will appreciate that if their forecast is tallying with the meteorological forecast they can trust the forecast</italic> (Interview with YC, UN Agency Officer).</p></disp-quote>
+<p>Although the MSD endeavors to provide information that addresses the needs in AA interventions, this information still has gaps that need to be filled in. It was noted during key informant interviews that one of the challenges with the current information provided by MSD was the issue of the geographic scale of the forecast. Stakeholders were of the view that forecasts are available at course resolution that was not applicable to the level of the local farms. Farmers noted that a district level forecast often was a miss for their local level farmers at the fringes of the districts. On the other hand, IKS based forecasts were localized to specific communities. The second challenge was that there was a gap in terms of the forecast range. Key Informants from the MSD indicated that they were producing long-term forecasts (three months) and short-term forecasts (three days and 10 days). However, in between the period (about a month) there was a noticeable forecasting gap.</p>
+<p>In general, it would appear that although the MSD may be producing relevant climate forecasts for farmers, the farmers found it difficult to access the information, mostly due to the latter&#x00027;s remote location. Some farmers that were interviewed in all the districts indicated that they either did not have gadgets to access radio broadcasting or they were too far to be reached by radio and cell phone transmission in Zimbabwe. As a result, some of the communities were accessing radio transmission from neighboring countries such as Botswana and Zambia. However, it is notable that even where AGRITEX officers were able to share meteorological information with farmers, farmers were often apprehensive and unsure about the forecasts. Trainings and awareness programmes on climate services are recommended to enable stakeholders to make sense of the forecasts in good time. As one respondent pointed out,</p>
+<disp-quote><p><italic>Communities by nature become suspicious of information that is not in a format that they understand. Buy-in is very important here. The challenge is that we are using terminology that only us and our colleagues understand but when we use IKS we get buy-in from the communities. When you use indigenous knowledge systems and talk to communities and show them that we value their knowledge there is a lot of buy in that comes into the project</italic> (Key Informant Interview; UN Organization, Key Informant Interview, Harare).</p></disp-quote>
+</sec>
+</sec>
+<sec id="s4">
+<title>4 The extent and provision of indigenous climate services and possible integration in anticipatory action</title>
+<p>Given the evident hesitancy that communities have in fully trusting the MSD SCFs on its own, it would be necessary to use both the SCFs from the MSD and IKS from the communities so that the seasonal climate forecast is triangulated using the two approaches. It is important to note that triangulation also happens within the IKS as various indicators are used which may or may not agree with each other. Triangulation is important because it gives farmers a reasonable level of assurance about the precision of the forecast and the consequent decisions that they have to take. As one key informant indicated,</p>
+<disp-quote><p><italic>Triangulation helps with two things. Firstly, it helps us to notice if communities are observing the same things that we are observing through the scientific method and secondly it helps with buy-in when you use their methods</italic> (Anticipatory Action Lead, International NGO, Key Informant Interview).</p>
+<p><italic>It came out in the consultations that some of the communities are still relying on those indigenous knowledge systems more that scientific forecasts. So, it may be helpful to have the two sources of information triangulated to complement and consolidate each other when it comes to anticipatory planning. I think then communities can start believing the forecasts and taking the right actions in line with the forecasts</italic> (Interview with BN, UN Agency Officer).</p></disp-quote>
+<p><xref ref-type="fig" rid="F2">Figure 2</xref> shows that MSD SCFs and IKS are predominantly used in combination across all the districts that were the subject of this study. <xref ref-type="fig" rid="F2">Figure 2</xref> shows community preferences in the use of the two forecasting methods across the four districts. The majority of respondents (73%) indicated that they use a combination of MSD SCFs and IKS based climate forecasts. Only 8% of the respondents exclusively used IKS. In 18% of the respondents exclusively utilized MSD SCFs. When we add the proportion of respondents who utilize indigenous knowledge systems alone and with the MSD SCFs, the total proportion of people who use a combination of both knowledge systems, the final tally rises to 81.6% of the respondents. These findings highlight the importance of IKS to the communities for making anticipatory action decisions.</p>
+<fig id="F2" position="float">
+<label>Figure 2</label>
+<caption><p>Predominantly used knowledge system. Source: Survey data.</p></caption>
+<graphic mimetype="image" mime-subtype="tiff" xlink:href="fclim-06-1301908-g0002.tif"/>
+</fig>
+<sec>
+<title>4.1 The need for a national database of indigenous knowledge systems indicators</title>
+<p>Although, evidence shows that communities utilize both MSD seasonal climate forecasts and the indigenous knowledge-based forecast, key informants observed that MSD forecasts had an advantage over IKS in terms of accessibility because the MSD forecasts were documented and organized. One respondent indicated;</p>
+<disp-quote><p>Although people use both forecasting methods equally, it can be seen that the meteorological information from AGRITEX is better packaged and organized and therefore more likely to reach a higher number of people. Meteorological information has better channels for dissemination to communities through AGRITEX (Interview with MF, Farmer and Councilor, Mudzi District).</p></disp-quote>
+<p>Key informant interviewees broadly agreed that there is a need to document the indicators of IKS into a national database. It is on the basis of this organized and packaged knowledge that an assessment of the accuracy and reliability of the tool can be measured and confirmed. Most people share this kind of knowledge through informal meetings especially in social gatherings. It was also evident from discussions with key informants that this knowledge largely resides with the elderly members of the community and there were fears that if it was not well documented it could begin to fade away in the coming generations. Urgent steps to document and disseminate this kind of knowledge are recommended. This documentation and dissemination of information should also be accompanied by training sessions for younger members of the community once the efficacy of the IKS forecasting system has been established in seasonal climate forecasting.</p>
+</sec>
+<sec>
+<title>4.2 Usability of IKS and meteorological forecasts compared</title>
+<p>Respondents were asked to rate their perceptions with regards to ease of interpretation and perceived trustworthiness of meteorological forecasting and IKS based forecasting (<xref ref-type="table" rid="T3">Table 3</xref>). The statements were intended to measure the respondents&#x00027; level of understanding of the different forecasting systems and their level of trust in the two forecasting systems. A score of &#x0201C;0&#x0201D; meant that the respondent completely disagreed with the statement, while a score of &#x0201C;10&#x0201D; meant that the respondent completely agreed with the statement. The average scores on each statement are captured in <xref ref-type="table" rid="T3">Table 3</xref>.</p>
+<table-wrap position="float" id="T3">
+<label>Table 3</label>
+<caption><p>Usability of MSD SCFs and IKS forecasts.</p></caption>
+<table frame="box" rules="all">
+<thead>
+<tr style="background-color:#919498;color:#ffffff">
+<th valign="top" align="left" colspan="2"><bold>Statements on forecasting systems</bold></th>
+<th valign="top" align="left"><bold>Score</bold></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Ease of Interpretation</td>
+<td valign="top" align="left">1. The indigenous knowledge-based information that I receive about climate forecasting is easy to understand?</td>
+<td valign="top" align="left">8.20</td>
+</tr>
+ <tr>
+<td/>
+<td valign="top" align="left">2. The meteorological information that I receive about climate forecasting is easy to understand?</td>
+<td valign="top" align="left">8.08</td>
+</tr>
+<tr>
+<td valign="top" align="left">Trustworthiness</td>
+<td valign="top" align="left">3. The climate forecasting information that I receive through indigenous knowledge-based climate change forecasting is trustworthy.</td>
+<td valign="top" align="left">7.86</td>
+</tr>
+ <tr>
+<td/>
+<td valign="top" align="left">4. The climate forecasting information that I receive through meteorology is trustworthy.</td>
+<td valign="top" align="left">8.12</td>
+</tr></tbody>
+</table>
+</table-wrap>
+<p>The scores show that respondents generally had a high understanding of both the scientific and IKS based forecasting methods and their scores were almost similar on the ease of interpretation. Indigenous knowledge systems were marginally scored higher with regards to ease of interpretation at 8.20, while meteorological systems were at 8.08. While both methods scored high with regards to trustworthiness, the scientific method of forecasting scored marginally higher (8.12) compared to IKS (7.86). On trustworthiness, indigenous knowledge systems scored marginally lower at 7.86, while meteorological services scored 8.12.</p>
+</sec>
+<sec>
+<title>4.3 Comparison of the characteristics of SCFs and IKS</title>
+<p><xref ref-type="table" rid="T4">Table 4</xref> shows the key differences between indigenous climate systems and the scientific forecasting system. Some of the key issues noted that differentiate the two systems include the notion of accuracy. Respondents observed that the scientific method is more accurate and is able to estimate rainfall amounts more precisely than the IKS system. On the other hand, the IKS system was observed to use broad estimates of &#x0201C;drought&#x0201D; or &#x0201C;good rains.&#x0201D; Precision of precipitation quantities is a challenge in IKS. This has, to an extent, implications for anticipatory planning. Another difference was that meteorological method was based on probabilistic forecasts while IKS based forecasts tend to be interpreted more definitively with authority, generally not allowing room for error. The meteorological method also tended to be more precise in estimating the lead time to extreme weather events compared to IKS based forecasts.</p>
+<table-wrap position="float" id="T4">
+<label>Table 4</label>
+<caption><p>General comparison of MSD SCFs and IKS forecasts.</p></caption>
+<table frame="box" rules="all">
+<thead>
+<tr style="background-color:#919498;color:#ffffff">
+<th valign="top" align="left"><bold>Dimension of comparison</bold></th>
+<th valign="top" align="left"><bold>Meteorological information</bold></th>
+<th valign="top" align="left"><bold>Indigenous knowledge systems information</bold></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Calibration</td>
+<td valign="top" align="left">Calibrated</td>
+<td valign="top" align="left">Uncalibrated and fuzzy measurements</td>
+</tr>
+<tr>
+<td valign="top" align="left">Probability of forecast</td>
+<td valign="top" align="left">Probability based</td>
+<td valign="top" align="left">Assumed authority</td>
+</tr>
+<tr>
+<td valign="top" align="left">Frequency of reporting</td>
+<td valign="top" align="left">Can be granulated to as small as one day forecasts</td>
+<td valign="top" align="left">Not easy to determine the indicator lead time</td>
+</tr>
+<tr>
+<td valign="top" align="left">Dissemination channels</td>
+<td valign="top" align="left">Uses the Meteorological Department, AGRITEX Officers, mainstream and social media for official distribution</td>
+<td valign="top" align="left">Dissemination is informal and unstructured. It is based on informal shared community assessments</td>
+</tr>
+<tr>
+<td valign="top" align="left">Methodology of forecast generation</td>
+<td valign="top" align="left">Documented and tested scientific method</td>
+<td valign="top" align="left">Non-documented and orally passed on from generation to generation.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Local relevance</td>
+<td valign="top" align="left">Often uses large-scale forecasts</td>
+<td valign="top" align="left">Uses local level indicators that speak to spatially granular detail</td>
+</tr>
+<tr>
+<td valign="top" align="left">Objectivity</td>
+<td valign="top" align="left">Meteorological information is measured using standardized instruments</td>
+<td valign="top" align="left">IKS indicators are mostly visually measured using individual&#x00027;s interpretation</td>
+</tr>
+<tr>
+<td valign="top" align="left">Forecasting capability</td>
+<td valign="top" align="left">Based on known mathematical relationships and laws of physics</td>
+<td valign="top" align="left">Based on the indicator trends of plants, animals, atmosphere and astrology observed over time.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Indicator integrity (principles)</td>
+<td valign="top" align="left">Integrity maintained regardless of the geographical areas</td>
+<td valign="top" align="left">Integrity is contextual and localized</td>
+</tr></tbody>
+</table>
+</table-wrap>
+</sec>
+<sec>
+<title>4.4 Key strengths of indigenous knowledge systems</title>
+<p>A number of key strengths can be noticed when we examine indigenous knowledge systems and their use in seasonal climate forecasting. Firstly, farmers have worked with indigenous knowledge systems for a very long time in their communities. As a result, they have developed trust in their application and the results that they produce. In some studies, it has been demonstrated that farmers, in fact, trust indigenous knowledge systems more than scientific forecasts. As one key informant interviewee indicated in Matobo district,</p>
+<disp-quote><p><italic>These signs are very reliable, and farmers share this information in their informal meetings so as to prepare for the farming seasons and this also influences the types of seeds that are shared. When you see umbumbulu tree (Mimusops zeyheri) bearing a lot of fruit, know certainly that there will be limited rain that year, and that a lot of cattle will die from the drought. There are a number of instances where the meteorological predictions have been wrong but the use of IKS has stood the test of time</italic> (Key Informant, Indigenous Knowledge Systems Specialist, Matobo District).</p></disp-quote>
+<p>However, some farmers noted that it was quite possible that these methods could miss the target in forecasting. They noted that the scientific method and the indigenous knowledge systems were capable of misdirecting their forecasts. They recommended that it was necessary to combine both methods in the forecasting process so that farmers could have a greater assurance about the decisions taken as a result of the climatic forecasts. It was evident from the farmers responses that they would be more confident to take decisive anticipatory action where there was agreement in the forecast result of the scientific method and the indigenous knowledge systems methodologies.</p>
+</sec>
+<sec>
+<title>4.5 Weaknesses of the IKS: the time dimension and the calibration challenge</title>
+<p>Several challenges can be noted with regards to the IKS when compared to the seasonal climate forecasting produced by the MSD. The first major weakness of indigenous knowledge systems is that they are problematic in terms of the time dimension. Even though the indicators forewarn that there will be a drought or above normal rainfall, it is often difficult to determine the exact period when these climatic events will happen. When juxtaposed with or against IKS, the MSD SCF is able to give more precise periods in which weather events will take place.</p>
+<p>Some researchers have argued also pointed out that the main challenge in IKS relates to benchmarking (Dube et al., <xref ref-type="bibr" rid="B14">2016</xref>). It remains unclear what can be termed normal rainfall, how many fruits or flowers or insects would precisely indicate a &#x0201C;normal,&#x0201D; &#x0201C;below normal,&#x0201D; or &#x0201C;above normal&#x0201D; rainfall. In that regard, IKS knowledge remains largely &#x0201C;fuzzy&#x0201D; and open to various interpretations (Dube et al., <xref ref-type="bibr" rid="B14">2016</xref>). As one key informant from an International NGO argued;</p>
+<disp-quote><p>The biggest challenge we have is that of standardization. For example, when we say we are seeing the behavior of quelea birds or termites, if we are calibrating, how many do we need to count to be able to say we are in green or we are in orange or we are in red. However as far as qualitative information is concerned there is definitely a lot of value in bringing in the indigenous knowledge systems although we are not able to quantify and calibrate some of the information we gather through this kind of knowledge (Key Informant Interview, International NGO Officer).</p></disp-quote>
+</sec>
+</sec>
+<sec id="s5">
+<title>5 Conclusion</title>
+<p>Based on the case study of four semi-arid Districts, this study seeks to investigate the possibility and protocols of incorporating indigenous knowledge systems for seasonal climate forecasting into anticipatory action in Zimbabwe. We argue that the successful implementation of anticipatory action requires a dependable seasonal and weather forecasting system that enables timely action to be taken between the time that a forecast is made and the time that an extreme weather event actually happens. Unfortunately, at the present moment, no known studies have been conducted to establish the hit rate of the forecasts used in anticipatory action in Zimbabwe. The study shows that anticipatory action is taken at various levels by actors such as government departments, local and international NGOs and individual citizens, especially farmers at the local level. In addition, we find that there were challenges with the current forecasting systems. The main challenges were related to the difficulty of interpreting the forecasts by communities, lack of relevant gadgets such as television sets and radios as well as the late dissemination of seasonal climate forecasting information by the Meteorological Services Department. Although the IKS-based forecasting system has some significant shortcomings, it also has some important strengths that could help to build up a more vibrant and watertight forecasting system when combined with the meteorological system. One key strength of the IKS is that the indicators are located within, &#x0201C;owned&#x0201D; and understood by local communities. As a consequence, they are well trusted, having been used for centuries across generations. The IKS indicators are also timely as they can be interpreted from the local ecology well before making critical decisions. This study established that local communities were utilizing both methods in their decision making using a parallel process where results from the two systems were used parallelly to triangulate and confirm findings. Whenever the two systems pointed toward a common forecast, local communities were able to make better decisions concerning anticipatory actions especially in agricultural decision-making issues.</p>
+</sec>
+<sec id="s6">
+<title>6 Key recommendations&#x02014;Guidance on how to integrate and use IKS in anticipatory action</title>
+<list list-type="simple">
+<list-item><p>i. Stakeholders in anticipatory action, including WFP, and Development and Humanitarian Partners and the Zimbabwe government should consider formally adopting the indigenous knowledge systems in weather and seasonal climate forecasting. At the present, staff did not have guidance on incorporating IKS in programs.</p></list-item>
+<list-item><p>ii. A guiding document needs to be developed to support this process of incorporation. The Government of Zimbabwe in collaboration with stakeholders such as the WFP and FAO should lead in developing a policy framework to guide the use of indigenous knowledge systems for climate forecasting not only in anticipatory action but also in general climate response initiatives.</p></list-item>
+<list-item><p>iii. It is necessary to develop an expanded and evolving national electronic database of indigenous knowledge systems indicators used in weather and seasonal forecasting. At the present moment, indigenous knowledge systems are not documented. It is feared that this knowledge might be lost with the passing of the old. Younger people are depending less on the IKS.</p></list-item>
+<list-item><p>iv. A longitudinal study must be instituted (e.g., over 5 years) to track the results of the IKS and the meteorological SCFs in weather and climate forecasting. Current cross-sectional studies do not shed adequate light on the comparative effectiveness of each method. This study could demonstrate the return on investment by tracking the hits and misses of indigenous knowledge systems forecasting outcomes over a medium-range period of time of 3 to 5 years.</p></list-item>
+<list-item><p>v. It is further recommended that there should be an establishment of annual platforms at District and Ward levels to (1) discuss IKS forecasts, (2) receive and assess MSD SCFs, and (3) Develop a consensus participatory hybrid forecast from the two forecasts. The platform can consist of local leaders, AGRTIEX Officers, MSD officers, farmers, the media and academics. This platform would also determine and agree on the relevant anticipatory actions.</p></list-item>
+<list-item><p>vi. The use of scientific SCFs and ICS must at all times be used with a view to minimize the risk of missed hits. Assuming for example that the probabilistic forecast and the participatory IKS system gives the impression that there is a 60% likelihood that the rainfall season will be a normal one, the planting could be distributed in such a way that 60% of the seed is planted with the assumption of targeting a normal rainfall season. The risk could then be spread in such a way that 20% of the seed planted will assume a below normal rainfall season, while 20% of the seed would be planted assuming an above normal rainfall season. This spreads the risk such that the farmer is able to harvest something in spite of the nature of rainfall received.</p></list-item>
+<list-item><p>vii. It is recommended that future studies should focus on producing some timeline graphics that show the timing in which IKS early indicators are observed and the timing of the forecast release in order to give the reader a better view on how both types of information could be better triangulated.</p></list-item>
+</list>
+</sec>
+<sec sec-type="data-availability" id="s7">
+<title>Data availability statement</title>
+<p>The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.</p>
+</sec>
+<sec sec-type="ethics-statement" id="s8">
+<title>Ethics statement</title>
+<p>Ethical review and approval was not required for the study on human participants in accordance with the local legislation and institutional requirements. Written informed consent from the [patients/participants OR patients/participants legal guardian/next of kin] was not required to participate in this study in accordance with the national legislation and the institutional requirements.</p>
+</sec>
+<sec sec-type="author-contributions" id="s9">
+<title>Author contributions</title>
+<p>TD: Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Validation, Visualization, Writing&#x02014;original draft, Writing&#x02014;review &#x00026; editing. AH: Conceptualization, Formal analysis, Funding acquisition, Project administration, Resources, Validation, Writing&#x02014;review &#x00026; editing. GN: Conceptualization, Formal analysis, Funding acquisition, Project administration, Resources, Validation, Visualization, Writing&#x02014;review &#x00026; editing. EM: Conceptualization, Methodology, Project administration, Funding Acquisition, Supervision, Validation, Visualization, Writing&#x02014;review &#x00026; editing. ME: Conceptualization, Formal analysis, Validation, Visualization, Writing&#x02014;review &#x00026; editing.</p>
+</sec>
+</body>
+<back>
+<sec sec-type="funding-information" id="s10">
+<title>Funding</title>
+<p>The author(s) declare that financial support was received for the research, authorship, and/or publication of this article. The study was funded by the United Nations World Food Programme.</p>
+</sec>
+<ack><p>Some of the text has previously appeared online in a report titled, &#x0201C;Study on the Use of Climate-related Indigenous Knowledge Systems to Support Anticipatory Action in Zimbabwe&#x0201D;, <ext-link ext-link-type="uri" xlink:href="https://www.wfp.org/publications/study-use-climate-related-indigenous-knowledge-systems-support-anticipatory-action">https://www.wfp.org/publications/study-use-climate-related-indigenous-knowledge-systems-support-anticipatory-action</ext-link>.</p>
+</ack>
+<sec sec-type="COI-statement" id="conf1">
+<title>Conflict of interest</title>
+<p>GN was employed by United Nations World Food Programme. ME was employed by The World Bank. EM was employed by World Food Programme. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+</sec>
+<sec sec-type="disclaimer" id="s11">
+<title>Publisher&#x00027;s note</title>
+<p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+</sec>
+<ref-list>
+<title>References</title>
+<ref id="B1">
+<citation citation-type="web"><person-group person-group-type="author"><name><surname>Acharya</surname> <given-names>S.</given-names></name></person-group> (<year>2011</year>). <article-title>Presage biology: lessons from nature in weather forecasting</article-title>. <source>Indian J. Tradit. Knowl.</source> <volume>10</volume>, <fpage>114</fpage>&#x02013;<lpage>124</lpage>. Available online at: <ext-link ext-link-type="uri" xlink:href="https://nopr.niscpr.res.in/handle/123456789/11072">https://nopr.niscpr.res.in/handle/123456789/11072</ext-link></citation>
+</ref>
+<ref id="B2">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Alvera</surname> <given-names>P.</given-names></name></person-group> (<year>2013</year>). <source>The role of Indigenous Knowledge Systems in coping with food security and climate challenges in Mbire District, Zimbabwe.</source> Doctoral dissertation, University of Zimbabwe.</citation>
+</ref>
+<ref id="B3">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bengtsson</surname> <given-names>T. P.</given-names></name></person-group> (<year>2018</year>). <source>Forecast-based Financing: Developing triggers for drought</source>. Division of Risk Management and Societal Safety, Lund University.</citation>
+</ref>
+<ref id="B4">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Berkes</surname> <given-names>F.</given-names></name> <name><surname>Colding</surname> <given-names>J.</given-names></name> <name><surname>Folke</surname> <given-names>C.</given-names></name></person-group> (<year>2000</year>). <article-title>Rediscovery of traditional ecological knowledge as adaptive management</article-title>. <source>Ecol. Applic.</source> <volume>10</volume>, <fpage>1251</fpage>&#x02013;<lpage>1262</lpage>. <pub-id pub-id-type="doi">10.1890/1051-0761(2000)010[1251:ROTEKA]2.0.CO;2</pub-id></citation>
+</ref>
+<ref id="B5">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Blench</surname> <given-names>R.</given-names></name></person-group> (<year>1999</year>). <article-title>Seasonal climatic forecasting: who can use it and how should it be disseminated</article-title>. <source>Nat. Resour. Perspect.</source> 47, 12.</citation>
+</ref>
+<ref id="B6">
+<citation citation-type="book"><person-group person-group-type="author"><name><surname>Brazier</surname> <given-names>A.</given-names></name></person-group> (<year>2020</year>). <source>Harnessing Zimbabwe&#x00027;s Indigenous Knowledge for a Changing Climate</source>. <publisher-loc>Harare</publisher-loc>: <publisher-name>Konrad Adenauer Stiftung</publisher-name>.</citation>
+</ref>
+<ref id="B7">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chanza</surname> <given-names>N.</given-names></name></person-group> (<year>2014</year>). <source>Indigenous knowledge and climate change: Insights from Muzarabani, Zimbabwe.</source> Doctoral dissertation, Nelson Mandela Metropolitan University.</citation>
+</ref>
+<ref id="B8">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chisadza</surname> <given-names>B.</given-names></name> <name><surname>Mushunje</surname> <given-names>A.</given-names></name> <name><surname>Nhundu</surname> <given-names>K.</given-names></name> <name><surname>Phiri</surname> <given-names>E. E.</given-names></name></person-group> (<year>2018</year>). <article-title>Opportunities and challenges for seasonal climate forecasts to more effectively assist smallholder farming decisions</article-title>. <source>S. Afr. J. Sci.</source> (2020) <volume>116</volume>, <fpage>1</fpage>&#x02013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.17159/sajs.2020/4649</pub-id></citation>
+</ref>
+<ref id="B9">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chisadza</surname> <given-names>B.</given-names></name> <name><surname>Tumbare</surname> <given-names>M. J.</given-names></name> <name><surname>Nhapi</surname> <given-names>I.</given-names></name> <name><surname>Nyabeze</surname> <given-names>W. R.</given-names></name></person-group> (<year>2013</year>). <article-title>Useful traditional knowledge indicators for drought forecasting in the Mzingwane Catchment area of Zimbabwe</article-title>. <source>Disast. Prev. Manage.</source> <volume>22</volume>, <fpage>312</fpage>&#x02013;<lpage>325</lpage>. <pub-id pub-id-type="doi">10.1108/DPM-10-2012-0109</pub-id></citation>
+</ref>
+<ref id="B10">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Costella</surname> <given-names>C.</given-names></name> <name><surname>Jaime</surname> <given-names>C.</given-names></name> <name><surname>Arrighi</surname> <given-names>J.</given-names></name> <name><surname>Coughlan de Perez</surname> <given-names>E.</given-names></name> <name><surname>Suarez</surname> <given-names>P.</given-names></name> <name><surname>van Aalst</surname> <given-names>M.</given-names></name></person-group> (<year>2018</year>). <source>Resilience solutions: exploring social protection linkages to forecast-based financing.</source> Policy Brief. January. Building Resilience and Adaptation to Climate Extremes and Disasters, London.</citation>
+</ref>
+<ref id="B11">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Coughlan de Perez</surname> <given-names>E.</given-names></name> <name><surname>van den Hurk</surname> <given-names>B. J. J. M.</given-names></name> <name><surname>Van Aalst</surname> <given-names>M. K.</given-names></name> <name><surname>Jongman</surname> <given-names>B.</given-names></name> <name><surname>Klose</surname> <given-names>T.</given-names></name> <name><surname>Suarez</surname> <given-names>P.</given-names></name></person-group> (<year>2015</year>). <article-title>Forecast-based financing: an approach for catalyzing humanitarian action based on extreme weather and climate forecasts</article-title>. <source>Nat. Hazards Earth Syst. Sci.</source> <volume>15</volume>, <fpage>895</fpage>&#x02013;<lpage>904</lpage>. <pub-id pub-id-type="doi">10.5194/nhess-15-895-2015</pub-id></citation>
+</ref>
+<ref id="B12">
+<citation citation-type="web"><person-group person-group-type="author"><collab>Disaster Risk Finance Community of Practice</collab></person-group> (<year>2020</year>). <source>Crisis and Disaster Risk Finance Short Notes on Covid 19, World Bank.</source> Available online at: <ext-link ext-link-type="uri" xlink:href="https://documents1.worldbank.org/curated/en/917061608185462156/pdf/Crisis-and-Disaster-Risk-Finance-Short-Notes-on-COVID-19.pdf">https://documents1.worldbank.org/curated/en/917061608185462156/pdf/Crisis-and-Disaster-Risk-Finance-Short-Notes-on-COVID-19.pdf</ext-link> (accessed February 9, 2024).</citation>
+</ref>
+<ref id="B13">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dube</surname> <given-names>T.</given-names></name></person-group> (<year>2015</year>). <source>Climate Change Information Usage for Adaptation Purposes: The Case of Smallholder Farmers in Matobo District, Zimbabwe.</source> Doctoral dissertation, University of Fort Hare.</citation>
+</ref>
+<ref id="B14">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Dube</surname> <given-names>T.</given-names></name> <name><surname>Moyo</surname> <given-names>P.</given-names></name> <name><surname>Ndlovu</surname> <given-names>S.</given-names></name> <name><surname>Phiri</surname> <given-names>K.</given-names></name></person-group> (<year>2016</year>). <article-title>Towards a framework for the integration of traditional ecological knowledge and meteorological science in seasonal climate forecasting: The case of smallholder farmers in Zimbabwe</article-title>. <source>J. Hum. Ecol.</source> <volume>54</volume>, <fpage>49</fpage>&#x02013;<lpage>58</lpage>. <pub-id pub-id-type="doi">10.1080/09709274.2016.11906986</pub-id></citation>
+</ref>
+<ref id="B15">
+<citation citation-type="web"><person-group person-group-type="author"><collab>Food and Nutrition Council</collab></person-group> (<year>2021a</year>). <source>Food and Nutrition Security in the Context of COVID-19 in Zimbabwe &#x02013; Matobo District Response Strategy</source>. Available online at: <ext-link ext-link-type="uri" xlink:href="https://fnc.org.zw/wp-content/uploads/2021/04/Matobo-District-Zimbabwe_FNS-Response-Strategy-in-the-Context-of-COVID-19.pdf">https://fnc.org.zw/wp-content/uploads/2021/04/Matobo-District-Zimbabwe_FNS-Response-Strategy-in-the-Context-of-COVID-19.pdf</ext-link> (accessed February 9, 2024).</citation>
+</ref>
+<ref id="B16">
+<citation citation-type="web"><person-group person-group-type="author"><collab>Food and Nutrition Council</collab></person-group> (<year>2021b</year>). <source>Food and Nutrition Security in the Context of COVID-19 in Zimbabwe &#x02013; Binga District Response Strategy.</source> Available online at: <ext-link ext-link-type="uri" xlink:href="https://fnc.org.zw/wp-content/uploads/2021/04/Binga-District-Zimbabwe_FNS-Response-Strategy-in-the-Context-of-COVID-19.pdf">https://fnc.org.zw/wp-content/uploads/2021/04/Binga-District-Zimbabwe_FNS-Response-Strategy-in-the-Context-of-COVID-19.pdf</ext-link> (accessed February 9, 2024).</citation>
+</ref>
+<ref id="B17">
+<citation citation-type="web"><person-group person-group-type="author"><collab>Food and Nutrition Council and World Food Programme</collab></person-group> (<year>2022a</year>). <source>Mbire District Food and Nutrition Security Profile.</source> Available online at: <ext-link ext-link-type="uri" xlink:href="https://fnc.org.zw/wp-content/uploads/2023/04/Mbire-District-Profile.pdf">https://fnc.org.zw/wp-content/uploads/2023/04/Mbire-District-Profile.pdf</ext-link> (accessed February 9, 2024).</citation>
+</ref>
+<ref id="B18">
+<citation citation-type="web"><person-group person-group-type="author"><collab>Food and Nutrition Council and World Food Programme</collab></person-group> (<year>2022b</year>). <source>Mudzi District Food and Nutrition Security Profile</source>. Available online at: <ext-link ext-link-type="uri" xlink:href="https://fnc.org.zw/wp-content/uploads/2023/04/Mudzi-District-Profile.pdf">https://fnc.org.zw/wp-content/uploads/2023/04/Mudzi-District-Profile.pdf</ext-link> (accessed February 9, 2024).</citation>
+</ref>
+<ref id="B19">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Grey</surname> <given-names>M. S.</given-names></name> <name><surname>Manyani</surname> <given-names>A.</given-names></name></person-group> (<year>2020</year>). <article-title>Integrating local indigenous knowledge to enhance risk reduction and adaptation strategies to drought and climate variability: The plight of smallholder farmers in Chirumhanzu district, Zimbabwe</article-title>. <source>J&#x000E0;mb&#x000E1;: J. Disaster Risk Stud.</source> <volume>12</volume>:<fpage>924</fpage>. <pub-id pub-id-type="doi">10.4102/jamba.v12i1.924</pub-id><pub-id pub-id-type="pmid">33391620</pub-id></citation></ref>
+<ref id="B20">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gwenzi</surname> <given-names>J.</given-names></name> <name><surname>Mashonjowa</surname> <given-names>E.</given-names></name> <name><surname>Mafongoya</surname> <given-names>P. L.</given-names></name> <name><surname>Rwasoka</surname> <given-names>D. T.</given-names></name> <name><surname>Stigter</surname> <given-names>K.</given-names></name></person-group> (<year>2016</year>). <article-title>The use of indigenous knowledge systems for short and long range rainfall prediction and farmers&#x00027; perceptions of science-based seasonal forecasts in Zimbabwe</article-title>. <source>Int. J. Clim. Change Strat. Manage.</source> <volume>8</volume>, <fpage>440</fpage>&#x02013;<lpage>462</lpage>. <pub-id pub-id-type="doi">10.1108/IJCCSM-03-2015-0032</pub-id></citation>
+</ref>
+<ref id="B21">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Heinrich</surname> <given-names>D.</given-names></name> <name><surname>Bailey</surname> <given-names>M.</given-names></name></person-group> (<year>2020</year>). <source>Forecast-Based Financing and Early Action for Drought, Guidance Notes for the Red Cross Red Crescent, British Red Cross</source>.</citation>
+</ref>
+<ref id="B22">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jain</surname> <given-names>P.</given-names></name></person-group> (<year>2014</year>). <article-title>Indigenous knowledge management in botswana using ICT applications</article-title>. <source>Conc. Adv. Inform. Knowl. Manag.</source><volume>2014</volume>, <fpage>167</fpage>&#x02013;<lpage>191</lpage>. <pub-id pub-id-type="doi">10.1533/9781780634357.2.167</pub-id></citation>
+</ref>
+<ref id="B23">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jiri</surname> <given-names>O.</given-names></name> <name><surname>Mafongoya</surname> <given-names>P. L.</given-names></name> <name><surname>Mubaya</surname> <given-names>C.</given-names></name> <name><surname>Mafongoya</surname> <given-names>O.</given-names></name></person-group> (<year>2016</year>). <article-title>Seasonal climate prediction and adaptation using indigenous knowledge systems in agriculture systems in Southern Africa: a review</article-title>. <source>J. Agric. Sci.</source> <volume>8</volume>, <fpage>156</fpage>&#x02013;<lpage>172</lpage>. <pub-id pub-id-type="doi">10.5539/jas.v8n5p156</pub-id></citation>
+</ref>
+<ref id="B24">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Jokinen</surname> <given-names>T.</given-names></name></person-group> (<year>2019</year>). <source>Forecast-based Financing: Transformation or a faster way to transfer funds?</source> Master&#x00027;s thesis, University of Helsinki.</citation>
+</ref>
+<ref id="B25">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kolawole</surname> <given-names>O. D.</given-names></name> <name><surname>Wolski</surname> <given-names>P.</given-names></name> <name><surname>Ngwenya</surname> <given-names>B.</given-names></name> <name><surname>Mmopelwa</surname> <given-names>G.</given-names></name></person-group> (<year>2014</year>). <article-title>Ethno-meteorology and scientific weather forecasting: Small farmers and scientists&#x00027; perspectives on climate variability in the Okavango Delta, Botswana</article-title>. <source>Clim. Risk Manag.</source> <volume>4</volume>, <fpage>43</fpage>&#x02013;<lpage>58</lpage>. <pub-id pub-id-type="doi">10.1016/j.crm.2014.08.002</pub-id></citation>
+</ref>
+<ref id="B26">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kupika</surname> <given-names>O. L.</given-names></name> <name><surname>Gandiwa</surname> <given-names>E.</given-names></name> <name><surname>Nhamo</surname> <given-names>G.</given-names></name> <name><surname>Kativu</surname> <given-names>S.</given-names></name></person-group> (<year>2019</year>). <article-title>Local ecological knowledge on climate change and ecosystem-based adaptation strategies promote resilience in the Middle Zambezi Biosphere Reserve, Zimbabwe</article-title>. <source>Scientifica</source> <volume>2019</volume>:<fpage>3069254</fpage>. <pub-id pub-id-type="doi">10.1155/2019/3069254</pub-id><pub-id pub-id-type="pmid">30984444</pub-id></citation></ref>
+<ref id="B27">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Luseno</surname> <given-names>W. K.</given-names></name> <name><surname>McPeak</surname> <given-names>J. G.</given-names></name> <name><surname>Barret</surname> <given-names>C.</given-names></name> <name><surname>Little</surname> <given-names>P. D.</given-names></name> <name><surname>Gebru</surname> <given-names>G.</given-names></name></person-group> (<year>2003</year>). <article-title>Assessing the value of climate forecast information for pastoralists: evidence from southern Ethiopia and northern Kenya</article-title>. <source>World Dev.</source> <volume>31</volume>, <fpage>1477</fpage>&#x02013;<lpage>1494</lpage>. <pub-id pub-id-type="doi">10.1016/S0305-750X(03)00113-X</pub-id></citation>
+</ref>
+<ref id="B28">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mafongoya</surname> <given-names>O.</given-names></name> <name><surname>Mafongoya</surname> <given-names>P. L.</given-names></name> <name><surname>Mudhara</surname> <given-names>M.</given-names></name></person-group> (<year>2021</year>). <article-title>Using indigenous knowledge systems in seasonal prediction and adapting to climate change impacts in Bikita District in Zimbabwe</article-title>. <source>Oriental Anthropol.</source> <volume>21</volume>, <fpage>195</fpage>&#x02013;<lpage>209</lpage>. <pub-id pub-id-type="doi">10.1177/0972558X21997662</pub-id></citation>
+</ref>
+<ref id="B29">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Manatsa</surname> <given-names>D.</given-names></name> <name><surname>Unganai</surname> <given-names>L.</given-names></name> <name><surname>Gadzirai</surname> <given-names>C.</given-names></name> <name><surname>Behera</surname> <given-names>S. K.</given-names></name></person-group> (<year>2012</year>). <article-title>An innovative tailored seasonal rainfall forecasting production in Zimbabwe</article-title>. <source>Nat. Hazards</source>. <volume>64</volume>, <fpage>1187</fpage>&#x02013;<lpage>1207</lpage>. <pub-id pub-id-type="doi">10.1007/s11069-012-0286-2</pub-id></citation>
+</ref>
+<ref id="B30">
+<citation citation-type="web"><person-group person-group-type="author"><name><surname>Mapara</surname> <given-names>J.</given-names></name></person-group> (<year>2009</year>). <article-title>Indigenous knowledge systems in Zimbabwe: Juxtaposing postcolonial theory</article-title>. <source>J. Pan African Stud.</source> <volume>3</volume>, <fpage>139</fpage>&#x02013;<lpage>155</lpage>. Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.jpanafrican.org/docs/vol3no1/3.1%20Indigenous%20Knowledge%20Systems%20in%20Zimbabwe.pdf">https://www.jpanafrican.org/docs/vol3no1/3.1%20Indigenous%20Knowledge%20Systems%20in%20Zimbabwe.pdf</ext-link></citation>
+</ref>
+<ref id="B31">
+<citation citation-type="web"><person-group person-group-type="author"><name><surname>Masekoameng</surname> <given-names>M. R.</given-names></name> <name><surname>Molotja</surname> <given-names>M. C.</given-names></name></person-group> (<year>2019</year>). <article-title>The role of indigenous foods and indigenous knowledge systems for rural households&#x00027; Food Security in Sekhukhune District, Limpopo Province, South Africa</article-title>. <source>J. Consumer Sci.</source> <volume>4</volume>:<fpage>19563</fpage>. Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.ajol.info/index.php/jfecs/article/view/191563">https://www.ajol.info/index.php/jfecs/article/view/191563</ext-link></citation>
+</ref>
+<ref id="B32">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Moonga</surname> <given-names>E.</given-names></name> <name><surname>Chitambo</surname> <given-names>H.</given-names></name></person-group> (<year>2010</year>). <article-title>&#x0201C;The role of indigenous knowledge and biodiversity in livestock disease management under climate change,&#x0201D;</article-title> in <source>2nd International Conference: Climate, Sustainability and Development in Semi-arid Regions August</source>, <fpage>16</fpage>&#x02013;<lpage>20</lpage>.</citation>
+</ref>
+<ref id="B33">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Moyo</surname> <given-names>E. N.</given-names></name></person-group> (<year>2020</year>). <source>Analysis of climate dynamics, climate model selection and impacts on maize production for the Gutu, Chirumhanzu and Zvishavane districts in Zimbabwe</source>. Doctoral Dissertation, Chinhoyi University of Technology.</citation>
+</ref>
+<ref id="B34">
+<citation citation-type="web"><person-group person-group-type="author"><name><surname>Moyo</surname> <given-names>P.</given-names></name> <name><surname>Dube</surname> <given-names>T.</given-names></name></person-group> (<year>2014</year>). <article-title>Edging towards a tipping point? An appraisal of the evolution of livelihoods under climate change in semi-arid Matobo, Zimbabwe</article-title>. <source>Int. J. Dev. Sustain.</source> <volume>3</volume>, <fpage>1340</fpage>&#x02013;<lpage>1353</lpage>. Available online at: <ext-link ext-link-type="uri" xlink:href="https://isdsnet.com/ijds-v3n6-8.pdf">https://isdsnet.com/ijds-v3n6-8.pdf</ext-link></citation>
+</ref>
+<ref id="B35">
+<citation citation-type="book"><person-group person-group-type="author"><name><surname>Mubaya</surname> <given-names>C. P.</given-names></name> <name><surname>Mafongoya</surname> <given-names>P. L.</given-names></name> <name><surname>Jiri</surname> <given-names>O.</given-names></name> <name><surname>Mafongoya</surname> <given-names>O.</given-names></name> <name><surname>Gwenzi</surname> <given-names>J.</given-names></name></person-group> (<year>2017</year>). <article-title>&#x0201C;Seasonal climate prediction in Zimbabwe using indigenous knowledge systems,&#x0201D;</article-title> in <source>Indigenous Knowledge Systems and Climate Change Management in Africa</source>, eds. P. L. Mafongoya, and O. C. Ajayi (<publisher-loc>Wageningen, The Netherlands</publisher-loc>: <publisher-name>CTA</publisher-name>).</citation>
+</ref>
+<ref id="B36">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mugambiwa</surname> <given-names>S. S.</given-names></name></person-group> (<year>2018</year>). <article-title>Adaptation measures to sustain indigenous practices and the use of indigenous knowledge systems to adapt to climate change in Mutoko rural district of Zimbabwe</article-title>. <source>J&#x000E0;mb&#x000E1;: J. Disaster Risk Stud.</source> <volume>10</volume>, <fpage>1</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.4102/jamba.v10i1.388</pub-id><pub-id pub-id-type="pmid">29955251</pub-id></citation></ref>
+<ref id="B37">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Munsaka</surname> <given-names>E.</given-names></name> <name><surname>Dube</surname> <given-names>E.</given-names></name></person-group> (<year>2018</year>). <article-title>The contribution of indigenous knowledge to disaster risk reduction activities in Zimbabwe: A big call to practitioners</article-title>. <source>J&#x000E0;mb&#x000E1;: J. Disaster Risk Stud.</source> <volume>10</volume>, <fpage>1</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.4102/jamba.v10i1.493</pub-id><pub-id pub-id-type="pmid">29955265</pub-id></citation></ref>
+<ref id="B38">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nhemachena</surname> <given-names>A.</given-names></name></person-group> (<year>2015</year>). <article-title>&#x0201C;Indigenous Knowledge, conflation and postcolonial translations: lessons from field work in contemporary rural Zimbabwe,&#x0201D;</article-title> in <source>Between Rhetoric and Reality: The state and use of indigenous knowledge in post-colonial Africa, Bamenda, Langaa RPCIG</source>, 59&#x02013;106. <pub-id pub-id-type="doi">10.2307/j.ctvh9vwc4.6</pub-id></citation>
+</ref>
+<ref id="B39">
+<citation citation-type="journal"><person-group person-group-type="author"><name><surname>Orlove</surname> <given-names>B.</given-names></name> <name><surname>Roncoli</surname> <given-names>C.</given-names></name> <name><surname>Kabugo</surname> <given-names>M.</given-names></name> <name><surname>Majugu</surname> <given-names>A.</given-names></name></person-group> (<year>2010</year>). <article-title>Indigenous climate knowledge in southern Uganda: the multiple components of a dynamic regional system</article-title>. <source>Clim. Change</source> <volume>100</volume>, <fpage>243</fpage>&#x02013;<lpage>265</lpage>. <pub-id pub-id-type="doi">10.1007/s10584-009-9586-2</pub-id></citation>
+</ref>
+<ref id="B40">
+<citation citation-type="web"><person-group person-group-type="author"><name><surname>Poudel</surname> <given-names>S. P.</given-names></name></person-group> (<year>2020</year>). <source>A system dynamics approach on forecast-based financing for flood response in nepal</source>. Available online at: <ext-link ext-link-type="uri" xlink:href="https://ssrn.com/abstract,=3506502">https://ssrn.com/abstract,=3506502</ext-link> (accessed February 9, 2024).</citation>
+</ref>
+<ref id="B41">
+<citation citation-type="web"><person-group person-group-type="author"><collab>SADC Climate Services Centre</collab></person-group> (<year>2021</year>). <source>Impact of warming ocean on our weather and climate</source>. Available online at: <ext-link ext-link-type="uri" xlink:href="http://csc.sadc.int/images/documents/ANNOUNCEMENT_SARCOF_25.pdf">http://csc.sadc.int/images/documents/ANNOUNCEMENT_SARCOF_25.pdf</ext-link> (accessed February 9, 2024).</citation>
+</ref>
+<ref id="B42">
+<citation citation-type="book"><person-group person-group-type="author"><name><surname>Sillitoe</surname> <given-names>P.</given-names></name></person-group> (<year>2009</year>). <source>Local Science vs. Global Science: Approaches To Indigenous Knowledge In International Development</source> (Vol. 4). <publisher-loc>New York</publisher-loc>: <publisher-name>Berghahn books</publisher-name>.</citation>
+</ref>
+<ref id="B43">
+<citation citation-type="book"><person-group person-group-type="author"><name><surname>Tanyanyiwa</surname> <given-names>V. I.</given-names></name></person-group> (<year>2018</year>). <article-title>&#x0201C;Weather forecasting using local traditional knowledge (LTK) in the midst of climate change in Domboshawa, Zimbabwe,&#x0201D;</article-title> in <source>Handbook of Climate Change Communication</source> (<publisher-loc>Cham</publisher-loc>: <publisher-name>Springer</publisher-name>), <fpage>1</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1007/978-3-319-70066-3_1</pub-id></citation>
+</ref>
+<ref id="B44">
+<citation citation-type="book"><person-group person-group-type="author"><collab>WFP</collab></person-group> (<year>2019a</year>). <source>Forecast-Based Financing (FbF): Anticipatory actions for food security.</source> <publisher-loc>Rome</publisher-loc>: <publisher-name>WFP</publisher-name>.</citation>
+</ref>
+<ref id="B45">
+<citation citation-type="book"><person-group person-group-type="author"><collab>WFP</collab></person-group> (<year>2019b</year>). <source>Climate Risk Financing: Early Response and Anticipatory Actions for Climate Hazards</source>. <publisher-loc>Rome</publisher-loc>: <publisher-name>WFP</publisher-name>.</citation>
+</ref>
+</ref-list>
+</back>
+</article>

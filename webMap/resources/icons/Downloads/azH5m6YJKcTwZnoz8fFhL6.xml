@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:odk="http://www.opendatakit.org/xforms" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>Land Restoration Activities Tool_</h:title>
+    <model odk:xforms-version="1.0.0">
+      <instance>
+        <azH5m6YJKcTwZnoz8fFhL6 id="azH5m6YJKcTwZnoz8fFhL6">
+          <start/>
+          <end/>
+          <Type_of_SLM_Activity/>
+          <Height/>
+          <Height_001/>
+          <Height_002/>
+          <Height_003/>
+          <Length/>
+          <Width/>
+          <Width_001/>
+          <Width_002/>
+          <Width_003/>
+          <Area_Restored/>
+          <Area_Improved/>
+          <Coordinate/>
+          <Comments/>
+          <Name/>
+          <PES_Funded/>
+          <Remark/>
+          <meta>
+            <instanceID/>
+          </meta>
+        </azH5m6YJKcTwZnoz8fFhL6>
+      </instance>
+      <bind jr:preload="timestamp" jr:preloadParams="start" nodeset="/azH5m6YJKcTwZnoz8fFhL6/start" type="dateTime"/>
+      <bind jr:preload="timestamp" jr:preloadParams="end" nodeset="/azH5m6YJKcTwZnoz8fFhL6/end" type="dateTime"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Type_of_SLM_Activity" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Height" relevant=" /azH5m6YJKcTwZnoz8fFhL6/Type_of_SLM_Activity  = 'gabion'" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Height_001" relevant=" /azH5m6YJKcTwZnoz8fFhL6/Type_of_SLM_Activity  = 'stone_bund'" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Height_002" relevant=" /azH5m6YJKcTwZnoz8fFhL6/Type_of_SLM_Activity  = 'dead_level_contour'" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Height_003" relevant=" /azH5m6YJKcTwZnoz8fFhL6/Type_of_SLM_Activity  = 'silt_trap'" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Length" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Width" relevant=" /azH5m6YJKcTwZnoz8fFhL6/Type_of_SLM_Activity  = 'gabion'" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Width_001" relevant=" /azH5m6YJKcTwZnoz8fFhL6/Type_of_SLM_Activity  = 'stone_bund'" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Width_002" relevant=" /azH5m6YJKcTwZnoz8fFhL6/Type_of_SLM_Activity  = 'silt_trap'" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Width_003" relevant=" /azH5m6YJKcTwZnoz8fFhL6/Type_of_SLM_Activity  = 'csa_plots'" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Area_Restored" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Area_Improved" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Coordinate" required="false()" type="geopoint"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Comments" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Name" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/PES_Funded" required="false()" type="string"/>
+      <bind nodeset="/azH5m6YJKcTwZnoz8fFhL6/Remark" required="false()" type="string"/>
+      <bind jr:preload="uid" nodeset="/azH5m6YJKcTwZnoz8fFhL6/meta/instanceID" readonly="true()" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <select1 ref="/azH5m6YJKcTwZnoz8fFhL6/Type_of_SLM_Activity">
+      <label>Type of SLM Activity</label>
+      <item>
+        <label>Gabion</label>
+        <value>gabion</value>
+      </item>
+      <item>
+        <label>Stone Bund</label>
+        <value>stone_bund</value>
+      </item>
+      <item>
+        <label>Silt Trap</label>
+        <value>silt_trap</value>
+      </item>
+      <item>
+        <label>CSA Plots</label>
+        <value>csa_plots</value>
+      </item>
+      <item>
+        <label>Dead Level Contour</label>
+        <value>dead_level_contour</value>
+      </item>
+    </select1>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Height">
+      <label>Height.</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Height_001">
+      <label>Height.</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Height_002">
+      <label>Height.</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Height_003">
+      <label>Height.</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Length">
+      <label>Length</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Width">
+      <label>Width.</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Width_001">
+      <label>Width.</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Width_002">
+      <label>Width.</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Width_003">
+      <label>Width.</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Area_Restored">
+      <label>Area Restored</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Area_Improved">
+      <label>Area Improved</label>
+    </input>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Coordinate">
+      <label>Coordinate</label>
+    </input>
+    <select1 ref="/azH5m6YJKcTwZnoz8fFhL6/Comments">
+      <label>Comments</label>
+      <item>
+        <label>Individual</label>
+        <value>individual</value>
+      </item>
+      <item>
+        <label>Village</label>
+        <value>village</value>
+      </item>
+      <item>
+        <label>Other</label>
+        <value>other</value>
+      </item>
+    </select1>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Name">
+      <label>Name</label>
+    </input>
+    <select1 ref="/azH5m6YJKcTwZnoz8fFhL6/PES_Funded">
+      <label>PES Funded</label>
+      <item>
+        <label>Yes</label>
+        <value>yes</value>
+      </item>
+      <item>
+        <label>No</label>
+        <value>no</value>
+      </item>
+    </select1>
+    <input ref="/azH5m6YJKcTwZnoz8fFhL6/Remark">
+      <label>Remark</label>
+    </input>
+  </h:body>
+</h:html>

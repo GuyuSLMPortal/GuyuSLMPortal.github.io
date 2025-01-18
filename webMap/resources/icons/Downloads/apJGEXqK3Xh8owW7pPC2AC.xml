@@ -1,0 +1,657 @@
+<?xml version="1.0"?>
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:jr="http://openrosa.org/javarosa" xmlns:odk="http://www.opendatakit.org/xforms" xmlns:orx="http://openrosa.org/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <h:head>
+    <h:title>Key Informant Interviews</h:title>
+    <model odk:xforms-version="1.0.0">
+      <instance>
+        <apJGEXqK3Xh8owW7pPC2AC id="apJGEXqK3Xh8owW7pPC2AC">
+          <start-geopoint/>
+          <Name_of_the_Officer/>
+          <Department/>
+          <Title_designation/>
+          <Date/>
+          <Place/>
+          <Name_of_interviewer/>
+          <group_te4gu58>
+            <_1_Do_community_members_have_a/>
+            <_2_Do_you_think_they_ught_period_Explain/>
+            <_3_Has_fodder_ever_been_plante/>
+            <Why/>
+            <_5_Which_fodder_crop_e_ideal_in_this_area/>
+            <_6_Where_do_communit_get_fodder_seed_from/>
+            <_7_Which_farming_met_g_in_planting_fodder/>
+            <_8_How_often_do_they_plant_fodder_crops/>
+            <_9_Has_there_ever_be_duction_distribution/>
+            <_10_What_types_of_se_seeds_were_provided/>
+            <_11_In_your_knowledge_have_th/>
+            <_12_From_who/>
+            <_13_What_alternative_azing_land_is_scarce/>
+            <_14_Do_you_think_the_eaths_due_to_drought/>
+          </group_te4gu58>
+          <group_uz0cc57>
+            <_1_Are_community_mem_gardening_activities/>
+            <_2_What_types_of_cro_grow_in_the_gardens/>
+            <_3_What_is_the_main_for_their_gardening/>
+            <_4_If_there_are_comm_et_facility_close_by/>
+            <_5_Do_community_gard_written_constitution/>
+            <_6_How_has_gardening_nity_s_food_security/>
+            <_7_Are_community_members_recei/>
+            <_8_Who_provides_this_support_or_training/>
+            <_9_What_do_you_think_mprove_their_gardens/>
+            <_10_Are_there_any_irrigation_s/>
+            <_11_Do_the_irrigatio_hem_or_close_to_them/>
+            <_12_Do_you_think_com_g_irrigation_gardens/>
+            <_13_What_role_do_you_play_in_this_project/>
+          </group_uz0cc57>
+          <group_tv6ug39>
+            <_1_What_type_of_live_members_commonly_own/>
+            <_2_What_is_the_avera_e_ward_disaggregate/>
+            <_3_What_is_the_gener_l_price_of_livestock/>
+            <_4_Are_communities_s_ling_their_livestock/>
+            <_5_What_kind_of_live_nly_used_in_the_area/>
+            <_6_What_challenges_d_livestock_production/>
+            <_7_How_can_these_challenges_be_mitigated/>
+            <_8_What_is_the_numbe_ea_in_2023_24_season/>
+            <_9_What_factors_cont_ard_and_animal_type/>
+            <_10_Do_you_have_livestock_dipp/>
+            <_11_Are_community_members_acti/>
+            <_12_Where_do_they_ge_es_dipping_chemicals/>
+            <_13_How_often_do_they_get_them/>
+            <_14_Who_provides_the_dipping_c/>
+            <Specify/>
+            <_15_What_do_you_thin_ecting_this_practice/>
+          </group_tv6ug39>
+          <group_wc8ra09>
+            <_1_What_are_the_main_of_water_in_the_ward/>
+            <Are_they_protected/>
+            <_2_How_many_sources_and_non_functional/>
+            <_3_What_is_the_capac_r_sources_mentioned_/>
+            <_4_How_many_water_so_erennial_or_seasonal/>
+            <How_many_months/>
+            <_5_What_major_water_e_faced_by_your_ward/>
+            <_6_How_are_these_solved/>
+            <_7_What_water_harves_mote_in_the_district/>
+            <_8_Do_you_have_specific_water_/>
+            <_9_What_are_the_sources_of_water/>
+            <_10_Are_there_livestock_drinki/>
+            <_11_What_is_the_curr_the_drinking_troughs/>
+            <_12_How_many_drinkin_vailable_in_the_ward/>
+            <_13_Are_the_drinking_troughs_functional/>
+            <_14_What_is_the_sour_ble_drinking_troughs/>
+          </group_wc8ra09>
+          <group_mg2yc48>
+            <_1_What_do_you_use_t_ater_from_the_source/>
+            <_2_Are_there_any_potential_con/>
+            <_3_What_are_the_caus_effects_and_impact/>
+            <_4_What_are_the_chal_uality_Give_reasons/>
+            <_5_Do_you_have_adequ_le_water_in_the_ward/>
+            <_6_What_are_the_comm_ases_in_your_village/>
+            <_7_Are_the_community_members_r/>
+            <_8_From_who/>
+            <_9_Are_there_any_Community_Hea/>
+            <Why_not/>
+          </group_mg2yc48>
+          <group_py8bb39>
+            <_1_Do_you_have_toilet_faciliti/>
+            <_2_How_many_househol_ge_ward_have_toilets/>
+            <_3_How_many_toilets_d_washing_facilities/>
+            <_4_How_many_of_these_ities_are_functional/>
+            <_5_Those_without_toi_se_their_human_waste/>
+            <_6_What_are_the_comm_cing_open_defecation/>
+            <_7_What_are_the_comm_d_members_by_gender/>
+          </group_py8bb39>
+          <meta>
+            <instanceID/>
+          </meta>
+        </apJGEXqK3Xh8owW7pPC2AC>
+      </instance>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/start-geopoint" type="geopoint"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/Name_of_the_Officer" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/Department" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/Title_designation" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/Date" required="false()" type="date"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/Place" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/Name_of_interviewer" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58" required="false()"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_1_Do_community_members_have_a" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_2_Do_you_think_they_ught_period_Explain" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_1_Do_community_members_have_a  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_3_Has_fodder_ever_been_plante" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/Why" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_3_Has_fodder_ever_been_plante  = 'no'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_5_Which_fodder_crop_e_ideal_in_this_area" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_6_Where_do_communit_get_fodder_seed_from" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_7_Which_farming_met_g_in_planting_fodder" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_8_How_often_do_they_plant_fodder_crops" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_9_Has_there_ever_be_duction_distribution" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_10_What_types_of_se_seeds_were_provided" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_11_In_your_knowledge_have_th" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_12_From_who" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_11_In_your_knowledge_have_th  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_13_What_alternative_azing_land_is_scarce" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_14_Do_you_think_the_eaths_due_to_drought" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57" required="false()"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_1_Are_community_mem_gardening_activities" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_2_What_types_of_cro_grow_in_the_gardens" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_3_What_is_the_main_for_their_gardening" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_4_If_there_are_comm_et_facility_close_by" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_5_Do_community_gard_written_constitution" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_6_How_has_gardening_nity_s_food_security" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_7_Are_community_members_recei" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_8_Who_provides_this_support_or_training" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_7_Are_community_members_recei  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_9_What_do_you_think_mprove_their_gardens" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_10_Are_there_any_irrigation_s" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_11_Do_the_irrigatio_hem_or_close_to_them" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_10_Are_there_any_irrigation_s  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_12_Do_you_think_com_g_irrigation_gardens" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_13_What_role_do_you_play_in_this_project" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39" required="false()"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_1_What_type_of_live_members_commonly_own" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_2_What_is_the_avera_e_ward_disaggregate" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_3_What_is_the_gener_l_price_of_livestock" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_4_Are_communities_s_ling_their_livestock" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_5_What_kind_of_live_nly_used_in_the_area" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_6_What_challenges_d_livestock_production" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_7_How_can_these_challenges_be_mitigated" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_8_What_is_the_numbe_ea_in_2023_24_season" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_9_What_factors_cont_ard_and_animal_type" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_10_Do_you_have_livestock_dipp" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_11_Are_community_members_acti" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_10_Do_you_have_livestock_dipp  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_12_Where_do_they_ge_es_dipping_chemicals" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_13_How_often_do_they_get_them" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_14_Who_provides_the_dipping_c" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/Specify" relevant="selected( /apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_14_Who_provides_the_dipping_c , 'ngos') and selected( /apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_14_Who_provides_the_dipping_c , 'other')" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_15_What_do_you_thin_ecting_this_practice" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_11_Are_community_members_acti  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09" required="false()"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_1_What_are_the_main_of_water_in_the_ward" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/Are_they_protected" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_2_How_many_sources_and_non_functional" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_3_What_is_the_capac_r_sources_mentioned_" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_4_How_many_water_so_erennial_or_seasonal" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/How_many_months" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_5_What_major_water_e_faced_by_your_ward" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_6_How_are_these_solved" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_7_What_water_harves_mote_in_the_district" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_8_Do_you_have_specific_water_" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_9_What_are_the_sources_of_water" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_8_Do_you_have_specific_water_  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_10_Are_there_livestock_drinki" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_11_What_is_the_curr_the_drinking_troughs" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_10_Are_there_livestock_drinki  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_12_How_many_drinkin_vailable_in_the_ward" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_10_Are_there_livestock_drinki  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_13_Are_the_drinking_troughs_functional" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_10_Are_there_livestock_drinki  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_14_What_is_the_sour_ble_drinking_troughs" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_10_Are_there_livestock_drinki  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48" required="false()"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_1_What_do_you_use_t_ater_from_the_source" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_2_Are_there_any_potential_con" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_3_What_are_the_caus_effects_and_impact" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_2_Are_there_any_potential_con  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_4_What_are_the_chal_uality_Give_reasons" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_5_Do_you_have_adequ_le_water_in_the_ward" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_6_What_are_the_comm_ases_in_your_village" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_7_Are_the_community_members_r" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_8_From_who" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_7_Are_the_community_members_r  = 'yes'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_9_Are_there_any_Community_Hea" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/Why_not" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_9_Are_there_any_Community_Hea  = 'no'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39" required="false()"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_1_Do_you_have_toilet_faciliti" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_2_How_many_househol_ge_ward_have_toilets" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_3_How_many_toilets_d_washing_facilities" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_4_How_many_of_these_ities_are_functional" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_5_Those_without_toi_se_their_human_waste" relevant=" /apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_1_Do_you_have_toilet_faciliti  = 'no'" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_6_What_are_the_comm_cing_open_defecation" required="false()" type="string"/>
+      <bind nodeset="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_7_What_are_the_comm_d_members_by_gender" required="false()" type="string"/>
+      <bind jr:preload="uid" nodeset="/apJGEXqK3Xh8owW7pPC2AC/meta/instanceID" readonly="true()" type="string"/>
+      <odk:setgeopoint event="odk-instance-first-load" ref="/apJGEXqK3Xh8owW7pPC2AC/start-geopoint"/>
+    </model>
+  </h:head>
+  <h:body class="theme-grid pages">
+    <input ref="/apJGEXqK3Xh8owW7pPC2AC/Name_of_the_Officer">
+      <label>Name of the Officer</label>
+    </input>
+    <input ref="/apJGEXqK3Xh8owW7pPC2AC/Department">
+      <label>Department</label>
+    </input>
+    <input ref="/apJGEXqK3Xh8owW7pPC2AC/Title_designation">
+      <label>Title/designation</label>
+    </input>
+    <input ref="/apJGEXqK3Xh8owW7pPC2AC/Date">
+      <label>Date</label>
+    </input>
+    <input ref="/apJGEXqK3Xh8owW7pPC2AC/Place">
+      <label>Place</label>
+    </input>
+    <input ref="/apJGEXqK3Xh8owW7pPC2AC/Name_of_interviewer">
+      <label>Name of interviewer</label>
+    </input>
+    <group ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58">
+      <label>Improving Agricultural Production</label>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_1_Do_community_members_have_a">
+        <label>1. Do community members have a backyard plots they use for farming?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_2_Do_you_think_they_ught_period_Explain">
+        <label>2. Do you think they would be interested in planting fodder in then during this drought period? Explain</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_3_Has_fodder_ever_been_plante">
+        <label>3. Has fodder ever been planted in the area before?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/Why">
+        <label>Why?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_5_Which_fodder_crop_e_ideal_in_this_area">
+        <label>5. Which fodder crops do you think would be ideal in this area?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_6_Where_do_communit_get_fodder_seed_from">
+        <label>6. Where do community members get fodder seed from?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_7_Which_farming_met_g_in_planting_fodder">
+        <label>7. Which farming method are they using in planting fodder?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_8_How_often_do_they_plant_fodder_crops">
+        <label>8. How often do they plant fodder crops?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_9_Has_there_ever_be_duction_distribution">
+        <label>9. Has there ever been interventions on fodder production/distribution?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_10_What_types_of_se_seeds_were_provided">
+        <label>10. What types of seeds were distributed, and quantities of seeds were provided?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_11_In_your_knowledge_have_th">
+        <label>11. In your knowledge, have the community ever received training on fodder production?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_12_From_who">
+        <label>12. From who?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_13_What_alternative_azing_land_is_scarce">
+        <label>13. What alternative livestock feed is being used, in the months where grazing land is scarce?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_te4gu58/_14_Do_you_think_the_eaths_due_to_drought">
+        <label>14. Do you think the planting of fodder crops at household level, through rainfed agriculture, would help mitigate livestock deaths due to drought?</label>
+      </input>
+    </group>
+    <group ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57">
+      <label>Irrigation</label>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_1_Are_community_mem_gardening_activities">
+        <label>1. Are community members engaged in gardening activities?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_2_What_types_of_cro_grow_in_the_gardens">
+        <label>2. What types of crops do they usually grow in the gardens?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_3_What_is_the_main_for_their_gardening">
+        <label>3. What is the main water source they use for their gardening?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_4_If_there_are_comm_et_facility_close_by">
+        <label>4. If there are communal gardens, do they have a toilet facility close by?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_5_Do_community_gard_written_constitution">
+        <label>5. Do community gardens currently have a written constitution?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_6_How_has_gardening_nity_s_food_security">
+        <label>6. How has gardening impacted the community's food security?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_7_Are_community_members_recei">
+        <label>7. Are community members receiving any support or training in managing gardening activities?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_8_Who_provides_this_support_or_training">
+        <label>8. Who provides this support or training?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_9_What_do_you_think_mprove_their_gardens">
+        <label>9. What do you think are the additional support or resources would help the community to improve their gardens?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_10_Are_there_any_irrigation_s">
+        <label>10. Are there any irrigation schemes in the community?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_11_Do_the_irrigatio_hem_or_close_to_them">
+        <label>11. Do the irrigation schemes have toilet facilities within them or close to them?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_12_Do_you_think_com_g_irrigation_gardens">
+        <label>12. Do you think community members would be interested in joining irrigation gardens?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_uz0cc57/_13_What_role_do_you_play_in_this_project">
+        <label>13. What role do you think they can play in this project?</label>
+      </input>
+    </group>
+    <group ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39">
+      <label>Livestock</label>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_1_What_type_of_live_members_commonly_own">
+        <label>1. What type of livestock do community members commonly own?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_2_What_is_the_avera_e_ward_disaggregate">
+        <label>2. What is the average number of livestock in the ward (disaggregate)</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_3_What_is_the_gener_l_price_of_livestock">
+        <label>3. What is the general price of livestock?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_4_Are_communities_s_ling_their_livestock">
+        <label>4. Are communities selling their livestock?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_5_What_kind_of_live_nly_used_in_the_area">
+        <label>5. What kind of livestock feed is commonly used in the area?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_6_What_challenges_d_livestock_production">
+        <label>6. What challenges do communities face regarding livestock production?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_7_How_can_these_challenges_be_mitigated">
+        <label>7. How can these challenges be mitigated?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_8_What_is_the_numbe_ea_in_2023_24_season">
+        <label>8. What is the number of livestock deaths recorded in the area in 2023/24 season?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_9_What_factors_cont_ard_and_animal_type">
+        <label>9. What factors contribute to livestock mortality per household, village, ward, and animal type?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_10_Do_you_have_livestock_dipp">
+        <label>10. Do you have livestock dipping areas in the community?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_11_Are_community_members_acti">
+        <label>11. Are community members active in dipping their livestock?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>yes</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_12_Where_do_they_ge_es_dipping_chemicals">
+        <label>12. Where do they get acaricides/dipping chemicals?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_13_How_often_do_they_get_them">
+        <label>13. How often do they get them?</label>
+        <hint>(weekly, monthly)</hint>
+      </input>
+      <select ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_14_Who_provides_the_dipping_c">
+        <label>14. Who provides the dipping chemicals (Government, NGO, other)</label>
+        <item>
+          <label>Government</label>
+          <value>government</value>
+        </item>
+        <item>
+          <label>NGOs</label>
+          <value>ngos</value>
+        </item>
+        <item>
+          <label>Other</label>
+          <value>other</value>
+        </item>
+      </select>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/Specify">
+        <label>Specify</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_tv6ug39/_15_What_do_you_thin_ecting_this_practice">
+        <label>15. What do you think is affecting this practice?</label>
+      </input>
+    </group>
+    <group ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09">
+      <label>Water Supply</label>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_1_What_are_the_main_of_water_in_the_ward">
+        <label>1. What are the main sources of water in the ward?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/Are_they_protected">
+        <label>Are they protected?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_2_How_many_sources_and_non_functional">
+        <label>2. How many sources of water are functional and non- functional?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_3_What_is_the_capac_r_sources_mentioned_">
+        <label>3. What is the capacity of the water sources mentioned ?</label>
+        <hint>(For boreholes- yield and dams- capacity)?</hint>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_4_How_many_water_so_erennial_or_seasonal">
+        <label>4. How many water sources are perennial or seasonal?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/How_many_months">
+        <label>How many months?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_5_What_major_water_e_faced_by_your_ward">
+        <label>5. What major water related problems are faced by your ward?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_6_How_are_these_solved">
+        <label>6. How are these solved?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_7_What_water_harves_mote_in_the_district">
+        <label>7. What water harvesting techniques do you promote in the district?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_8_Do_you_have_specific_water_">
+        <label>8. Do you have specific water sources designated for livestock drinking?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_9_What_are_the_sources_of_water">
+        <label>9. What are the sources of water?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_10_Are_there_livestock_drinki">
+        <label>10. Are there livestock drinking troughs in the ward?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_11_What_is_the_curr_the_drinking_troughs">
+        <label>11. What is the current condition of the drinking troughs?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_12_How_many_drinkin_vailable_in_the_ward">
+        <label>12. How many drinking troughs are available in the ward?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_13_Are_the_drinking_troughs_functional">
+        <label>13. Are the drinking troughs functional?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_wc8ra09/_14_What_is_the_sour_ble_drinking_troughs">
+        <label>14. What is the source of water for the available drinking troughs?</label>
+      </input>
+    </group>
+    <group ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48">
+      <label>Hygiene Production</label>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_1_What_do_you_use_t_ater_from_the_source">
+        <label>1. What do you use to fetch water from the source?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_2_Are_there_any_potential_con">
+        <label>2. Are there any potential contamination sources nearby that could affect your water source?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_3_What_are_the_caus_effects_and_impact">
+        <label>3. What are the causes, effects, and impact?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_4_What_are_the_chal_uality_Give_reasons">
+        <label>4. What are the challenges around water quality? Give reasons.</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_5_Do_you_have_adequ_le_water_in_the_ward">
+        <label>5. Do you have adequate portable water in the ward?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_6_What_are_the_comm_ases_in_your_village">
+        <label>6. What are the common water borne diseases in your village?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_7_Are_the_community_members_r">
+        <label>7. Are the community members receiving any training on Participatory Health and Hygiene Education (PHHE)?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_8_From_who">
+        <label>8. From who?</label>
+      </input>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/_9_Are_there_any_Community_Hea">
+        <label>9. Are there any Community Health Clubs (CHC) in the area?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_mg2yc48/Why_not">
+        <label>Why not?.</label>
+      </input>
+    </group>
+    <group ref="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39">
+      <label>Sanitation</label>
+      <select1 ref="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_1_Do_you_have_toilet_faciliti">
+        <label>1. Do you have toilet facilities at household level?</label>
+        <item>
+          <label>Yes</label>
+          <value>yes</value>
+        </item>
+        <item>
+          <label>No</label>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_2_How_many_househol_ge_ward_have_toilets">
+        <label>2. How many households in your village/ward have toilets?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_3_How_many_toilets_d_washing_facilities">
+        <label>3. How many toilets have functional hand washing facilities?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_4_How_many_of_these_ities_are_functional">
+        <label>4. How many of these hand washing facilities are functional?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_5_Those_without_toi_se_their_human_waste">
+        <label>5. Those without toilets, how do they dispose their human waste?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_6_What_are_the_comm_cing_open_defecation">
+        <label>6. What are the community perceptions on those practicing open defecation?</label>
+      </input>
+      <input ref="/apJGEXqK3Xh8owW7pPC2AC/group_py8bb39/_7_What_are_the_comm_d_members_by_gender">
+        <label>7. What are the common hygiene practices employed by household members (by gender)?</label>
+      </input>
+    </group>
+  </h:body>
+</h:html>
