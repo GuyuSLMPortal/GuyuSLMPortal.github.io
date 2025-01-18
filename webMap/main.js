@@ -47,7 +47,7 @@ function init(){
       })
     ],
     view: new ol.View({
-      zoom: 8,
+      zoom: 12,
       minZoom: 8,
       rotation: 0.5,
       // projection:'EPSG:32640',
@@ -65,7 +65,7 @@ function init(){
       //extent: ol.proj.transformExtent([55.408203953679255, 57.99200420598309, 56.29979683132314, 57.99200420598309], 'EPSG:4326', 'EPSG:32640')
       //center: ol.proj.fromLonLat([55.765946,58.080916]),
       center: [3229959, -2433264],
-      zoom: 10,
+      zoom: 12,
       maxZoom: 17,
       minZoom: 0,
       rotation: 0.2,
@@ -417,8 +417,8 @@ const stamenToner = new ol.layer.Tile({
     
   });
 
-  const clubsmarkerstyle = new ol.style.Icon({
-    src: './resources/icons/sew.png',
+  const dlcmarkerstyle = new ol.style.Icon({
+    src: './resources/icons/icon-yellow.png',
     size: [200, 200],
     offset: [0, 0],
     opacity: 1,
@@ -779,7 +779,7 @@ function createLabelStyle(feature, resolution) {
       format: new ol.format.GeoJSON()
     }),
     style: new ol.style.Style({
-      image:clubsmarkerstyle
+      image:dlcmarkerstyle
     }),
     visible: false,
     title: 'dlc'
